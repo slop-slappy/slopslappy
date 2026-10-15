@@ -1,0 +1,61 @@
+{
+  "manifest_version": 3,
+  "name": "SlopSlappy",
+  "version": "1.6.2",
+  "description": "Instant local scream and curse reactions for AI chats, with multilingual voice packs and optional private My Voice recordings.",
+  "homepage_url": "https://slopslappy.com",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "options_ui": {
+    "page": "studio.html",
+    "open_in_tab": true
+  },
+  "action": {
+    "default_title": "Toggle SlopSlappy",
+    "default_icon": {
+      "16": "icons/icon-16.png",
+      "32": "icons/icon-32.png",
+      "48": "icons/icon-48.png"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  },
+  "web_accessible_resources": [
+    {
+      "resources": [
+        "style.css",
+        "personas.json",
+        "audio/*.mp3",
+        "audio/personas/*.mp3",
+        "audio/man/*.mp3",
+        "audio/man/radio/*.mp3",
+        "audio/man/monster/*.mp3",
+        "audio/woman/*.mp3",
+        "audio/woman/radio/*.mp3",
+        "audio/woman/monster/*.mp3",
+        "icons/*.png"
+      ],
+      "matches": [
+        "https://chatgpt.com/*",
+        "https://*.chatgpt.com/*",
+        "https://chat.openai.com/*",
+        "https://*.chat.openai.com/*",
+        "https://claude.ai/*",
+        "https://*.claude.ai/*",
+        "https://gemini.google.com/*",
+        "https://*.gemini.google.com/*",
+        "https://manus.im/*",
+        "https://*.manus.im/*"
+      ]
+    }
+  ],
+  "icons": {
+    "16": "icons/icon-16.png",
+    "32": "icons/icon-32.png",
+    "48": "icons/icon-48.png",
+    "128": "icons/icon-128.png"
+  }
+}

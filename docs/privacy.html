@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>SlopSlappy privacy policy</title>
+<meta name="description" content="SlopSlappy collects nothing. Here is exactly what the extension does and doesn't do.">
+<link rel="icon" href="assets/favicon.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,100..900&display=swap" rel="stylesheet">
+<style>
+  :root{--yellow:#FDD120; --ink:#000; --paper:#FEFCF5; --blue:#2A52D6; --line:4px}
+  *{box-sizing:border-box}
+  html{background:var(--yellow)}
+  body{margin:0; background:var(--yellow); color:var(--ink); font-family:"Archivo",system-ui,sans-serif; font-weight:500; font-size:18px; line-height:1.55}
+  a{color:inherit}
+  .wrap{max-width:1100px; margin:0 auto; padding:0 20px}
+  header.top{display:flex; align-items:center; justify-content:space-between; padding:22px 0}
+  .brand{display:flex; align-items:center; gap:12px; text-decoration:none; font-weight:800; font-size:20px}
+  .brand img{width:40px; height:40px}
+  nav a{text-decoration:none; font-weight:600; margin-left:22px}
+  nav a:hover{text-decoration:underline; text-decoration-thickness:3px; text-underline-offset:4px}
+  main{background:var(--paper); border:var(--line) solid var(--ink); box-shadow:8px 8px 0 var(--ink); padding:36px; max-width:780px; margin:20px 0 60px}
+  h1{font-weight:900; font-stretch:108%; letter-spacing:-.03em; line-height:1; font-size:clamp(36px,5vw,56px); margin:0 0 6px}
+  .date{margin:0 0 28px; opacity:.75}
+  h2{font-weight:800; font-size:24px; letter-spacing:-.01em; margin:30px 0 8px}
+  p,li{max-width:66ch}
+  p{margin:0 0 12px}
+  ul{padding-left:22px; margin:0 0 12px}
+  li{margin-bottom:6px}
+  a:focus-visible{outline:4px solid var(--blue); outline-offset:3px}
+  @media (max-width:560px){ main{padding:24px 20px} }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <a class="brand" href="index.html"><img src="assets/mascot.png" alt="" width="40" height="40">SlopSlappy</a>
+    <nav><a href="index.html">Home</a><a href="https://github.com/slop-slappy/slopslappy">GitHub</a></nav>
+  </header>
+
+  <main>
+    <h1>Privacy policy</h1>
+    <p class="date">Last updated 15 October 2026. Applies to SlopSlappy 1.6 and later.</p>
+
+    <p>SlopSlappy is a browser extension that plays bundled voice clips when you click a button it places next to AI chat answers. It collects no data. This page explains what it does and doesn't do in enough detail that you can verify it against the source code.</p>
+
+    <h2>What we collect</h2>
+    <p>Nothing. SlopSlappy has no server, no account system, no analytics and no crash reporting. It never makes a network request after it's installed. We don't know who has installed it, how often it's used, or what you say to your AI.</p>
+
+    <h2>Your chats</h2>
+    <p>SlopSlappy does not read, store or transmit the text of your conversations. To decide where to place the slipper, it looks at the page's buttons (Copy, Retry, Regenerate, vote icons) and their accessibility labels. It never inspects the content of an answer or anything you typed.</p>
+
+    <h2>Permissions</h2>
+    <ul>
+      <li><strong>activeTab</strong>: lets the extension add the slipper to the tab you're looking at, only after you click the extension's icon. It has no access to other tabs.</li>
+      <li><strong>scripting</strong>: lets the extension run its own content script on that tab. The script is packaged with the extension; no code is downloaded or executed from the internet.</li>
+    </ul>
+    <p>SlopSlappy requests no host permissions. It only works on chatgpt.com, chat.openai.com, claude.ai, gemini.google.com and manus.im, and only when you activate it.</p>
+
+    <h2>Microphone</h2>
+    <p>Two features use the microphone, and both ask for it only when you take an action.</p>
+    <ul>
+      <li><strong>Hold to scream</strong> measures the loudness of the microphone input while you hold the slipper, to react to how loud you are. The audio is analysed in memory and discarded. Nothing is recorded or stored.</li>
+      <li><strong>My Voice</strong> records only after you press Start, and stores a recording only after you press Save. Recordings are kept in your browser's local storage (IndexedDB) on your device, are never uploaded, and are deleted when you remove the extension.</li>
+    </ul>
+    <p>You can revoke microphone access at any time from Chrome's site settings.</p>
+
+    <h2>Settings</h2>
+    <p>Your choices in the settings panel (language, voice, intensity, timer and similar) live only in the open chat tab and reset when you reload it. The extension doesn't write them to disk or sync them anywhere. The only thing it stores is My Voice recordings, as described above.</p>
+
+    <h2>Audio content</h2>
+    <p>All 2,522 voice clips are packaged inside the extension. All voices are AI-performed. Persona voices are original fictional characters and parodies; no real person's voice was cloned and none are celebrity voices, authentic recordings or historical quotations.</p>
+
+    <h2>Children</h2>
+    <p>SlopSlappy contains strong language and is not intended for anyone under 18.</p>
+
+    <h2>Changes</h2>
+    <p>If this policy ever changes, the new version will be published here and the date at the top updated. The extension's behaviour can be checked at any time against the open-source code on <a href="https://github.com/slop-slappy/slopslappy">GitHub</a>.</p>
+
+    <h2>Contact</h2>
+    <p><a href="mailto:hello@slopslappy.com">hello@slopslappy.com</a></p>
+  </main>
+</div>
+</body>
+</html>

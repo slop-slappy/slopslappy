@@ -1,0 +1,4348 @@
+{
+  "languages": [
+    {
+      "id": "en",
+      "label": "English",
+      "native": "English"
+    },
+    {
+      "id": "hi",
+      "label": "Hindi",
+      "native": "हिन्दी"
+    },
+    {
+      "id": "hinglish",
+      "label": "Hinglish",
+      "native": "Hindi + English"
+    },
+    {
+      "id": "pa",
+      "label": "Punjabi",
+      "native": "ਪੰਜਾਬੀ"
+    },
+    {
+      "id": "es",
+      "label": "Spanish",
+      "native": "Español"
+    },
+    {
+      "id": "fr",
+      "label": "French",
+      "native": "Français"
+    },
+    {
+      "id": "de",
+      "label": "German",
+      "native": "Deutsch"
+    },
+    {
+      "id": "pt",
+      "label": "Portuguese",
+      "native": "Português"
+    },
+    {
+      "id": "it",
+      "label": "Italian",
+      "native": "Italiano"
+    },
+    {
+      "id": "ja",
+      "label": "Japanese",
+      "native": "日本語"
+    },
+    {
+      "id": "ko",
+      "label": "Korean",
+      "native": "한국어"
+    },
+    {
+      "id": "ru",
+      "label": "Russian",
+      "native": "Русский"
+    }
+  ],
+  "phrases": [
+    {
+      "id": "en-rant",
+      "language": "en",
+      "label": "Full English meltdown",
+      "text": "What the fuck is wrong with this thing? I gave clear instructions, and you still spewed useless garbage instead of answering the damn question. Read the prompt, asshole.",
+      "audio": "en-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "en-burst-01",
+      "language": "en",
+      "label": "Read the prompt",
+      "text": "Read the fucking prompt.",
+      "audio": "en-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-02",
+      "language": "en",
+      "label": "WTF bot",
+      "text": "What the fuck, bot?",
+      "audio": "en-burst-02.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-03",
+      "language": "en",
+      "label": "Useless answer",
+      "text": "That answer's fucking useless.",
+      "audio": "en-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-04",
+      "language": "en",
+      "label": "Invented bullshit",
+      "text": "Stop inventing bullshit.",
+      "audio": "en-burst-04.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-05",
+      "language": "en",
+      "label": "Ignored everything",
+      "text": "You ignored everything, asshole.",
+      "audio": "en-burst-05.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-06",
+      "language": "en",
+      "label": "Read properly",
+      "text": "Holy shit, read properly.",
+      "audio": "en-burst-06.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-07",
+      "language": "en",
+      "label": "Useless nonsense",
+      "text": "What useless fucking nonsense.",
+      "audio": "en-burst-07.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-08",
+      "language": "en",
+      "label": "Reject that output",
+      "text": "Fuck off with that.",
+      "audio": "en-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-09",
+      "language": "en",
+      "label": "Wrong again",
+      "text": "Wrong again, you idiot.",
+      "audio": "en-burst-09.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-10",
+      "language": "en",
+      "label": "Bullshit output",
+      "text": "This is bullshit, bot.",
+      "audio": "en-burst-10.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-11",
+      "language": "en",
+      "label": "Read anything",
+      "text": "Did you read a damn thing?",
+      "audio": "en-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-12",
+      "language": "en",
+      "label": "Making shit up",
+      "text": "Quit making shit up.",
+      "audio": "en-burst-12.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-13",
+      "language": "en",
+      "label": "Mangled prompt",
+      "text": "You mangled the fucking prompt.",
+      "audio": "en-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-14",
+      "language": "en",
+      "label": "Follow instructions",
+      "text": "Goddamn, follow the instructions.",
+      "audio": "en-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-15",
+      "language": "en",
+      "label": "Not what I asked",
+      "text": "That's not what I fucking asked.",
+      "audio": "en-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-16",
+      "language": "en",
+      "label": "Pay attention",
+      "text": "Fucking pay attention.",
+      "audio": "en-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-17",
+      "language": "en",
+      "label": "Garbage output",
+      "text": "Your output is fucking garbage.",
+      "audio": "en-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-18",
+      "language": "en",
+      "label": "Stop dodging",
+      "text": "Stop dodging, dumbass.",
+      "audio": "en-burst-18.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-19",
+      "language": "en",
+      "label": "Fucking mess",
+      "text": "What a fucking mess.",
+      "audio": "en-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-20",
+      "language": "en",
+      "label": "For fuck's sake",
+      "text": "Read it, for fuck's sake.",
+      "audio": "en-burst-20.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-21",
+      "language": "en",
+      "label": "Missed the point",
+      "text": "You missed the damn point.",
+      "audio": "en-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-22",
+      "language": "en",
+      "label": "Broken bot",
+      "text": "This bot is fucking broken.",
+      "audio": "en-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-23",
+      "language": "en",
+      "label": "Answer question",
+      "text": "Answer the damn question.",
+      "audio": "en-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-24",
+      "language": "en",
+      "label": "No fucking sense",
+      "text": "That made no fucking sense.",
+      "audio": "en-burst-24.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-25",
+      "language": "en",
+      "label": "Try again",
+      "text": "Bullshit. Try again, asshole.",
+      "audio": "en-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-26",
+      "language": "en",
+      "label": "Parroting shit",
+      "text": "Quit parroting this shit.",
+      "audio": "en-burst-26.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-27",
+      "language": "en",
+      "label": "Butchered instructions",
+      "text": "You butchered every fucking instruction.",
+      "audio": "en-burst-27.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-28",
+      "language": "en",
+      "label": "Completely wrong",
+      "text": "Fuck, that's completely wrong.",
+      "audio": "en-burst-28.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-29",
+      "language": "en",
+      "label": "Fed bullshit",
+      "text": "Stop feeding me bullshit.",
+      "audio": "en-burst-29.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-burst-30",
+      "language": "en",
+      "label": "Read then answer",
+      "text": "Read before you fucking answer.",
+      "audio": "en-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "en-meltdown",
+      "language": "en",
+      "label": "Useless fucking bot",
+      "text": "You useless fucking bot, read the goddamn instructions, motherfucker!",
+      "audio": "en-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "en-original",
+      "language": "en",
+      "label": "How the fuck?",
+      "text": "How the fuck did you get that from what I actually said?",
+      "audio": "curse.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "en-bullshit",
+      "language": "en",
+      "label": "Confident bullshit",
+      "text": "What the fuck is this confidently wrong bullshit?",
+      "audio": "en-bullshit.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "en-read",
+      "language": "en",
+      "label": "Motherfucker, read it",
+      "text": "Read the fucking instructions, you useless motherfucker.",
+      "audio": "en-read.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "hi-rant",
+      "language": "hi",
+      "label": "Full Hindi meltdown · ignored context",
+      "text": "मादरचोद, मैंने साफ़-साफ़ कहा था क्या करना है, फिर भी तूने पूरा संदर्भ छोड़कर ये चूतियापा परोस दिया। बहनचोद, निर्देश पढ़ और काम का जवाब दे, बकचोदी बंद कर!",
+      "audio": "hi-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "hi-burst-01",
+      "language": "hi",
+      "label": "Madarchod padho · read it",
+      "text": "मादरचोद, पढ़ तो ले!",
+      "audio": "hi-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-02",
+      "language": "hi",
+      "label": "Behenchod nirdesh dekho · check instructions",
+      "text": "बहनचोद, निर्देश देख!",
+      "audio": "hi-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-03",
+      "language": "hi",
+      "label": "Chutiya model bhatak gaya · off track again",
+      "text": "चूतिया मॉडल, फिर भटक गया!",
+      "audio": "hi-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-04",
+      "language": "hi",
+      "label": "Yeh kya bakchodi · what nonsense",
+      "text": "ये क्या बकचोदी है?",
+      "audio": "hi-burst-04.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-05",
+      "language": "hi",
+      "label": "Harami samjha nahi · did not understand",
+      "text": "हरामी, बात समझ नहीं आई?",
+      "audio": "hi-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-06",
+      "language": "hi",
+      "label": "Landu jawab mat do · no useless reply",
+      "text": "लंडू जवाब मत दे!",
+      "audio": "hi-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-07",
+      "language": "hi",
+      "label": "Gadhe prompt padho · read prompt",
+      "text": "गधे, प्रॉम्प्ट तो पढ़!",
+      "audio": "hi-burst-07.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-08",
+      "language": "hi",
+      "label": "Saale ulta bola · said opposite",
+      "text": "साले, फिर उल्टा बोला!",
+      "audio": "hi-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-09",
+      "language": "hi",
+      "label": "Bhosdike kaam ka jawab · useful answer",
+      "text": "भोसड़ीके, काम का जवाब दे!",
+      "audio": "hi-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-10",
+      "language": "hi",
+      "label": "Bhadwe nirdesh maan · follow instructions",
+      "text": "भड़वे, निर्देश मान!",
+      "audio": "hi-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-11",
+      "language": "hi",
+      "label": "Teri bakchodi band · stop nonsense",
+      "text": "तेरी बकचोदी बंद कर!",
+      "audio": "hi-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-12",
+      "language": "hi",
+      "label": "Phir wahi chutiyapa · same stupidity",
+      "text": "फिर वही चूतियापा!",
+      "audio": "hi-burst-12.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-13",
+      "language": "hi",
+      "label": "Laude sawaal padho · read question first",
+      "text": "लौड़े, सवाल पढ़ पहले!",
+      "audio": "hi-burst-13.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-14",
+      "language": "hi",
+      "label": "Madarchod sandarbh dekho · check context",
+      "text": "मादरचोद, संदर्भ देख!",
+      "audio": "hi-burst-14.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-15",
+      "language": "hi",
+      "label": "Behenchod baat mat ghuma · stop dodging",
+      "text": "बहनचोद, बात मत घुमा!",
+      "audio": "hi-burst-15.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-16",
+      "language": "hi",
+      "label": "Chutiya nirdesh kyun chhode · skipped instructions",
+      "text": "चूतिया, निर्देश क्यों छोड़े?",
+      "audio": "hi-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-17",
+      "language": "hi",
+      "label": "Kya land jawab diya · awful answer",
+      "text": "क्या लंड जवाब दिया!",
+      "audio": "hi-burst-17.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-18",
+      "language": "hi",
+      "label": "Bhosdike phir gadbad · wrong again",
+      "text": "भोसड़ीके, फिर गड़बड़ कर दी!",
+      "audio": "hi-burst-18.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-19",
+      "language": "hi",
+      "label": "Harami itna nahi samjha · did not get it",
+      "text": "हरामी, इतना भी नहीं समझा?",
+      "audio": "hi-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-20",
+      "language": "hi",
+      "label": "Saale kaam ki baat · answer properly",
+      "text": "साले, काम की बात कर!",
+      "audio": "hi-burst-20.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-21",
+      "language": "hi",
+      "label": "Gadhe bakwaas band · stop babbling",
+      "text": "गधे, बकवास बंद कर!",
+      "audio": "hi-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-22",
+      "language": "hi",
+      "label": "Bhadwe asal jawab · give real answer",
+      "text": "भड़वे, असल जवाब दे!",
+      "audio": "hi-burst-22.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-23",
+      "language": "hi",
+      "label": "Madarchod kahani gadh di · made it up",
+      "text": "मादरचोद, फिर कहानी गढ़ दी?",
+      "audio": "hi-burst-23.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-24",
+      "language": "hi",
+      "label": "Behenchod prompt chhoda · skipped prompt",
+      "text": "बहनचोद, प्रॉम्प्ट क्यों छोड़ा?",
+      "audio": "hi-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-25",
+      "language": "hi",
+      "label": "Chutiya ulta likha · wrote opposite",
+      "text": "चूतिया, उल्टा क्यों लिखा?",
+      "audio": "hi-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-26",
+      "language": "hi",
+      "label": "Laude sunta bhi hai · are you listening",
+      "text": "लौड़े, सुनता भी है?",
+      "audio": "hi-burst-26.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-27",
+      "language": "hi",
+      "label": "Bhosdike padhai kar · learn to read",
+      "text": "भोसड़ीके, पढ़ना सीख!",
+      "audio": "hi-burst-27.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-28",
+      "language": "hi",
+      "label": "Harami nirdesh maan · follow instruction",
+      "text": "हरामी, निर्देश मान!",
+      "audio": "hi-burst-28.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-29",
+      "language": "hi",
+      "label": "Gadhe phir hag diya · messed up again",
+      "text": "गधे, फिर हग दिया!",
+      "audio": "hi-burst-29.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-burst-30",
+      "language": "hi",
+      "label": "Bekaar chutiya bot · useless bot",
+      "text": "बेकार चूतिया बॉट!",
+      "audio": "hi-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hi-meltdown",
+      "language": "hi",
+      "label": "Madarchod + Behenchod + Chutiyapa",
+      "text": "मादरचोद! बहनचोद! ये क्या चूतियापा है?",
+      "audio": "hi-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "hi-madarchod",
+      "language": "hi",
+      "label": "Madarchod · wrong again",
+      "text": "मादरचोद, फिर गलत जवाब दिया!",
+      "audio": "hi-madarchod.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "hi-behenchod",
+      "language": "hi",
+      "label": "Behenchod · when did I say that",
+      "text": "बहनचोद, मैंने ये कब कहा था?",
+      "audio": "hi-behenchod.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "hi-chutiya",
+      "language": "hi",
+      "label": "Chutiya model · read instructions first",
+      "text": "चूतिया मॉडल, पहले निर्देश पढ़!",
+      "audio": "hi-chutiya.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "hi-bakchodi",
+      "language": "hi",
+      "label": "Bakchodi · give a straight answer",
+      "text": "ये कैसी बकचोदी है? सीधा जवाब दे!",
+      "audio": "hi-bakchodi.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "hinglish-rant",
+      "language": "hinglish",
+      "label": "Full Hinglish meltdown · Read the instructions",
+      "text": "मादरचोद, मैंने साफ़ prompt दिया था और तू फिर वही बकचोदी उगल रहा है। बहनचोद, instructions पढ़, context समझ, फिर जवाब दे—ऐसा चूतियापा बंद कर।",
+      "audio": "hinglish-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "hinglish-burst-01",
+      "language": "hinglish",
+      "label": "Behenchod prompt padh · Read the prompt",
+      "text": "बहनचोद, prompt पढ़!",
+      "audio": "hinglish-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-02",
+      "language": "hinglish",
+      "label": "Madarchod follow kar · Follow instructions",
+      "text": "मादरचोद, instructions follow कर!",
+      "audio": "hinglish-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-03",
+      "language": "hinglish",
+      "label": "Kya bakchodi hai · Nonsense output",
+      "text": "ये क्या बकचोदी है?",
+      "audio": "hinglish-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-04",
+      "language": "hinglish",
+      "label": "Chutiya context kahan · Lost context",
+      "text": "चूतिया, context कहाँ गया?",
+      "audio": "hinglish-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-05",
+      "language": "hinglish",
+      "label": "Sala hallucinate kiya · Hallucinated again",
+      "text": "साला, फिर hallucinate किया!",
+      "audio": "hinglish-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-06",
+      "language": "hinglish",
+      "label": "Laude sawal padh · Read the question",
+      "text": "लौड़े, सवाल पढ़ पहले!",
+      "audio": "hinglish-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-07",
+      "language": "hinglish",
+      "label": "Ghatiya output · Awful output",
+      "text": "कितनी घटिया output है!",
+      "audio": "hinglish-burst-07.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-08",
+      "language": "hinglish",
+      "label": "Behuda bullshit band · Stop the bullshit",
+      "text": "बेहूदा bullshit बंद कर!",
+      "audio": "hinglish-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-09",
+      "language": "hinglish",
+      "label": "Phir se chutiyapa · More stupidity",
+      "text": "फिर से वही चूतियापा!",
+      "audio": "hinglish-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-10",
+      "language": "hinglish",
+      "label": "Abe answer de · Give an answer",
+      "text": "अबे, answer तो दे!",
+      "audio": "hinglish-burst-10.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-11",
+      "language": "hinglish",
+      "label": "Madarchod point pakad · Get the point",
+      "text": "मादरचोद, point पकड़!",
+      "audio": "hinglish-burst-11.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-12",
+      "language": "hinglish",
+      "label": "Behenchod sun raha · Are you listening",
+      "text": "बहनचोद, सुन भी रहा?",
+      "audio": "hinglish-burst-12.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-13",
+      "language": "hinglish",
+      "label": "Kiski bakwaas hai · Whose nonsense",
+      "text": "ये किसकी बकवास है?",
+      "audio": "hinglish-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-14",
+      "language": "hinglish",
+      "label": "Chutiya AI dhyan de · Pay attention",
+      "text": "चूतिया AI, ध्यान दे!",
+      "audio": "hinglish-burst-14.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-15",
+      "language": "hinglish",
+      "label": "Sala prompt bhool gaya · Forgot the prompt",
+      "text": "साला, prompt भूल गया?",
+      "audio": "hinglish-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-16",
+      "language": "hinglish",
+      "label": "Laude nirdesh padh · Read directions",
+      "text": "लौड़े, निर्देश पढ़!",
+      "audio": "hinglish-burst-16.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-17",
+      "language": "hinglish",
+      "label": "Ghatiya bakchodi · Trash logic",
+      "text": "वही घटिया बकचोदी!",
+      "audio": "hinglish-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-18",
+      "language": "hinglish",
+      "label": "Kamine output sudhar · Fix the output",
+      "text": "कमीने, output सुधार!",
+      "audio": "hinglish-burst-18.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-19",
+      "language": "hinglish",
+      "label": "Faltu gyaan mat pel · Stop lecturing",
+      "text": "फालतू ज्ञान मत पेल!",
+      "audio": "hinglish-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-20",
+      "language": "hinglish",
+      "label": "Phir wahi bullshit · Same nonsense",
+      "text": "फिर वही bullshit!",
+      "audio": "hinglish-burst-20.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-21",
+      "language": "hinglish",
+      "label": "Chutiya bot kaam kar · Do your job",
+      "text": "चूतिया bot, काम कर!",
+      "audio": "hinglish-burst-21.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-22",
+      "language": "hinglish",
+      "label": "Madarchod guess mat kar · Stop guessing",
+      "text": "मादरचोद, guess मत कर!",
+      "audio": "hinglish-burst-22.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-23",
+      "language": "hinglish",
+      "label": "Behenchod jawab de · Answer properly",
+      "text": "बहनचोद, जवाब दे!",
+      "audio": "hinglish-burst-23.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-24",
+      "language": "hinglish",
+      "label": "Sala instruction ignore · Stop ignoring instructions",
+      "text": "साला, instruction ignore क्यों?",
+      "audio": "hinglish-burst-24.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-25",
+      "language": "hinglish",
+      "label": "Bakchod focus kar · Focus",
+      "text": "बकचोद, focus कर!",
+      "audio": "hinglish-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-26",
+      "language": "hinglish",
+      "label": "Land jaisa jawab · Worthless reply",
+      "text": "लंड जैसा जवाब!",
+      "audio": "hinglish-burst-26.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-27",
+      "language": "hinglish",
+      "label": "Chutiya off-topic · Off-topic again",
+      "text": "चूतिया, फिर off-topic!",
+      "audio": "hinglish-burst-27.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-28",
+      "language": "hinglish",
+      "label": "Madarchod kaam ka bol · Say something useful",
+      "text": "मादरचोद, काम का बोल!",
+      "audio": "hinglish-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-29",
+      "language": "hinglish",
+      "label": "Behenchod copy mat kar · Stop copying",
+      "text": "बहनचोद, copy मत कर!",
+      "audio": "hinglish-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-burst-30",
+      "language": "hinglish",
+      "label": "Kya chutiyapa hai · What stupidity",
+      "text": "ये क्या चूतियापा है?",
+      "audio": "hinglish-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "hinglish-meltdown",
+      "language": "hinglish",
+      "label": "Madarchod Behenchod · Read the prompt",
+      "text": "मादरचोद, बहनचोद—prompt पढ़, फिर से क्या बकवास कर रहा है?",
+      "audio": "hinglish-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "hinglish-bc",
+      "language": "hinglish",
+      "label": "Behenchod · Read the whole prompt",
+      "text": "बहनचोद, पूरा fucking prompt पढ़!",
+      "audio": "hinglish-bc.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "hinglish-mc",
+      "language": "hinglish",
+      "label": "Madarchod · Wrong again",
+      "text": "मादरचोद, फिर से गलत जवाब दिया!",
+      "audio": "hinglish-mc.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "hinglish-wtf",
+      "language": "hinglish",
+      "label": "Kya fucking bakchodi · What nonsense",
+      "text": "ये क्या fucking बकचोदी है?",
+      "audio": "hinglish-wtf.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-rant",
+      "language": "pa",
+      "label": "Bhainchod bot rant · broken bot meltdown",
+      "text": "ਭੈਣਚੋਦ, ਤੂੰ ਹਰ ਵਾਰੀ ਗੱਲ ਛੱਡ ਕੇ ਉਹੀ ਫੁੱਦੂ ਜਵਾਬ ਚਿਪਕਾ ਦਿੰਦਾ ਏਂ। ਮਾਦਰਚੋਦ ਬੋਟ, ਹੁਕਮ ਪੜ੍ਹ, ਸਵਾਲ ਸਮਝ ਤੇ ਇਹ ਬਕਚੋਦੀ ਬੰਦ ਕਰ, ਨਹੀਂ ਤਾਂ ਚੁੱਪ ਰਹਿ।",
+      "audio": "pa-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "pa-burst-01",
+      "language": "pa",
+      "label": "Bhainchod, ki likheya ae? · what did you write?",
+      "text": "ਭੈਣਚੋਦ, ਕੀ ਲਿਖਿਆ ਏ?",
+      "audio": "pa-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-02",
+      "language": "pa",
+      "label": "Eh ki chutiyaapa ae? · what stupidity is this?",
+      "text": "ਏ ਕੀ ਚੂਤੀਆਪਾ ਏ?",
+      "audio": "pa-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-03",
+      "language": "pa",
+      "label": "Madarchod, gall sun lai! · listen to the point",
+      "text": "ਮਾਦਰਚੋਦ, ਗੱਲ ਸੁਣ ਲੈ!",
+      "audio": "pa-burst-03.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-04",
+      "language": "pa",
+      "label": "Saaleya, pher galat ae! · wrong again",
+      "text": "ਸਾਲਿਆ, ਫੇਰ ਗਲਤ ਏ!",
+      "audio": "pa-burst-04.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-05",
+      "language": "pa",
+      "label": "Eh bakchodi band kar! · stop this nonsense",
+      "text": "ਇਹ ਬਕਚੋਦੀ ਬੰਦ ਕਰ!",
+      "audio": "pa-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-06",
+      "language": "pa",
+      "label": "Landu jawab na de! · do not give a crap reply",
+      "text": "ਲੰਡੂ ਜਵਾਬ ਨਾ ਦੇ!",
+      "audio": "pa-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-07",
+      "language": "pa",
+      "label": "Oye chutiya, parh lai! · read it",
+      "text": "ਓਏ ਚੂਤੀਆ, ਪੜ੍ਹ ਲੈ!",
+      "audio": "pa-burst-07.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-08",
+      "language": "pa",
+      "label": "Bhainchod, hukam mann lai! · follow the instruction",
+      "text": "ਭੈਣਚੋਦ, ਹੁਕਮ ਮੰਨ ਲੈ!",
+      "audio": "pa-burst-08.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-09",
+      "language": "pa",
+      "label": "Madarchod, ohi ratt pher? · the same rote line again?",
+      "text": "ਮਾਦਰਚੋਦ, ਉਹੀ ਰੱਟ ਫੇਰ?",
+      "audio": "pa-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-10",
+      "language": "pa",
+      "label": "Saaleya, sawaal samajh lai! · understand the question",
+      "text": "ਸਾਲਿਆ, ਸਵਾਲ ਸਮਝ ਲੈ!",
+      "audio": "pa-burst-10.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-11",
+      "language": "pa",
+      "label": "Ki fuddupunna ae eh? · what dumb nonsense is this?",
+      "text": "ਕੀ ਫੁੱਦੂਪੁਣਾ ਏ ਇਹ?",
+      "audio": "pa-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-12",
+      "language": "pa",
+      "label": "Oye, bakwaas na maar! · quit talking rubbish",
+      "text": "ਓਏ, ਬਕਵਾਸ ਨਾ ਮਾਰ!",
+      "audio": "pa-burst-12.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-13",
+      "language": "pa",
+      "label": "Chutiya bot, hosh kar! · get a grip, bot",
+      "text": "ਚੂਤੀਆ ਬੋਟ, ਹੋਸ਼ ਕਰ!",
+      "audio": "pa-burst-13.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-14",
+      "language": "pa",
+      "label": "Bhainchod, jawab theek kar! · fix the answer",
+      "text": "ਭੈਣਚੋਦ, ਜਵਾਬ ਠੀਕ ਕਰ!",
+      "audio": "pa-burst-14.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-15",
+      "language": "pa",
+      "label": "Madarchod, bakwaas chhadd! · cut the crap",
+      "text": "ਮਾਦਰਚੋਦ, ਬਕਵਾਸ ਛੱਡ!",
+      "audio": "pa-burst-15.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-16",
+      "language": "pa",
+      "label": "Saaleya, gall kithe gayi? · where did the point go?",
+      "text": "ਸਾਲਿਆ, ਗੱਲ ਕਿੱਥੇ ਗਈ?",
+      "audio": "pa-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-17",
+      "language": "pa",
+      "label": "Eh ki ghatiya jawab ae? · what a lousy answer",
+      "text": "ਇਹ ਕੀ ਘਟੀਆ ਜਵਾਬ ਏ?",
+      "audio": "pa-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-18",
+      "language": "pa",
+      "label": "Fuddu bot, sun taan sahi! · listen properly, bot",
+      "text": "ਫੁੱਦੂ ਬੋਟ, ਸੁਣ ਤਾਂ ਸਹੀ!",
+      "audio": "pa-burst-18.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-19",
+      "language": "pa",
+      "label": "Bhainchod, pher nakal maari? · copied it again?",
+      "text": "ਭੈਣਚੋਦ, ਫੇਰ ਨਕਲ ਮਾਰੀ?",
+      "audio": "pa-burst-19.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-20",
+      "language": "pa",
+      "label": "Madarchod, gall na taal! · stop dodging the point",
+      "text": "ਮਾਦਰਚੋਦ, ਗੱਲ ਨਾ ਟਾਲ!",
+      "audio": "pa-burst-20.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-21",
+      "language": "pa",
+      "label": "Chutiyaapa band kar, yaar! · stop the stupidity",
+      "text": "ਚੂਤੀਆਪਾ ਬੰਦ ਕਰ, ਯਾਰ!",
+      "audio": "pa-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-22",
+      "language": "pa",
+      "label": "Saaleya, hukam kyon taaliya? · why did you ignore it?",
+      "text": "ਸਾਲਿਆ, ਹੁਕਮ ਕਿਉਂ ਟਾਲਿਆ?",
+      "audio": "pa-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-23",
+      "language": "pa",
+      "label": "Bakchod bot, chupp kar! · shut up, bot",
+      "text": "ਬਕਚੋਦ ਬੋਟ, ਚੁੱਪ ਕਰ!",
+      "audio": "pa-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-24",
+      "language": "pa",
+      "label": "Oye landu, line parh! · read the line",
+      "text": "ਓਏ ਲੰਡੂ, ਲਾਈਨ ਪੜ੍ਹ!",
+      "audio": "pa-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-25",
+      "language": "pa",
+      "label": "Bhainchod, sir kha liya! · you have done my head in",
+      "text": "ਭੈਣਚੋਦ, ਸਿਰ ਖਾ ਲਿਆ!",
+      "audio": "pa-burst-25.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-26",
+      "language": "pa",
+      "label": "Madarchod, dimaag la zara! · use your brain",
+      "text": "ਮਾਦਰਚੋਦ, ਦਿਮਾਗ ਲਾ ਜਰਾ!",
+      "audio": "pa-burst-26.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-27",
+      "language": "pa",
+      "label": "Pher fuddu jawab aa giya! · another dumb reply",
+      "text": "ਫੇਰ ਫੁੱਦੂ ਜਵਾਬ ਆ ਗਿਆ!",
+      "audio": "pa-burst-27.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-28",
+      "language": "pa",
+      "label": "Saaleya, eh ki jhol ae? · what mess is this?",
+      "text": "ਸਾਲਿਆ, ਏ ਕੀ ਝੋਲ ਏ?",
+      "audio": "pa-burst-28.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-29",
+      "language": "pa",
+      "label": "Chutiya bot, siddha bol! · answer straight, bot",
+      "text": "ਚੂਤੀਆ ਬੋਟ, ਸਿੱਧਾ ਬੋਲ!",
+      "audio": "pa-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-burst-30",
+      "language": "pa",
+      "label": "Bhainchod, kinni bakchodi? · how much more nonsense?",
+      "text": "ਭੈਣਚੋਦ, ਕਿੰਨੀ ਬਕਚੋਦੀ?",
+      "audio": "pa-burst-30.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pa-meltdown",
+      "language": "pa",
+      "label": "Bhainchod · what are you doing?",
+      "text": "ਭੈਣਚੋਦ, ਕੀ ਕਰਦਾ ਪਿਆ ਏਂ?",
+      "audio": "pa-meltdown.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-madarchod",
+      "language": "pa",
+      "label": "Madarchod · read the question",
+      "text": "ਮਾਦਰਚੋਦ, ਸਵਾਲ ਪੜ੍ਹ ਲੈ!",
+      "audio": "pa-madarchod.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-chutiya",
+      "language": "pa",
+      "label": "Chutiya bot · understand the point",
+      "text": "ਚੂਤੀਆ ਬੋਟ, ਗੱਲ ਸਮਝ ਲੈ!",
+      "audio": "pa-chutiya.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-landu",
+      "language": "pa",
+      "label": "Landu jawab · drop the crap replies",
+      "text": "ਲੰਡੂ ਜਵਾਬ ਛੱਡ ਦੇ!",
+      "audio": "pa-landu.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-read",
+      "language": "pa",
+      "label": "Saaleya, pehlan parh taan lai · read it first",
+      "text": "ਸਾਲਿਆ, ਪਹਿਲਾਂ ਪੜ੍ਹ ਤਾਂ ਲੈ!",
+      "audio": "pa-read.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-bakchodi",
+      "language": "pa",
+      "label": "Eh ki bakchodi ae? · what nonsense is this?",
+      "text": "ਏ ਕੀ ਬਕਚੋਦੀ ਏ?",
+      "audio": "pa-bakchodi.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-wrong",
+      "language": "pa",
+      "label": "Bhainchod, pher galat hi kar ditta · wrong again",
+      "text": "ਭੈਣਚੋਦ, ਫੇਰ ਗਲਤ ਹੀ ਕਰ ਦਿੱਤਾ!",
+      "audio": "pa-wrong.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pa-stop",
+      "language": "pa",
+      "label": "Bakwaas band kar, saaleya · stop the rubbish",
+      "text": "ਬਕਵਾਸ ਬੰਦ ਕਰ, ਸਾਲਿਆ!",
+      "audio": "pa-stop.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "es-rant",
+      "language": "es",
+      "label": "F · desahogo total",
+      "text": "¡Pinche bot de mierda, te pedí algo clarísimo y otra vez me sales con tus pendejadas! Lee las instrucciones de una puta vez y deja de inventarte mamadas inútiles.",
+      "audio": "es-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "es-burst-01",
+      "language": "es",
+      "label": "M · bot inútil",
+      "text": "Pinche bot inútil",
+      "audio": "es-burst-01.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-02",
+      "language": "es",
+      "label": "F · no vales madre",
+      "text": "No vales madre",
+      "audio": "es-burst-02.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-03",
+      "language": "es",
+      "label": "M · qué mierda",
+      "text": "No mames, qué mierda",
+      "audio": "es-burst-03.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-04",
+      "language": "es",
+      "label": "F · sigue instrucciones",
+      "text": "Pendejo, sigue instrucciones",
+      "audio": "es-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-05",
+      "language": "es",
+      "label": "M · máquina necia",
+      "text": "Pinche máquina necia",
+      "audio": "es-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-06",
+      "language": "es",
+      "label": "F · otra pendejada",
+      "text": "Otra pendejada más",
+      "audio": "es-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-07",
+      "language": "es",
+      "label": "M · respuesta culera",
+      "text": "Pinche respuesta culera",
+      "audio": "es-burst-07.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-08",
+      "language": "es",
+      "label": "F · te dije clarito",
+      "text": "Te dije clarito, cabrón",
+      "audio": "es-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-09",
+      "language": "es",
+      "label": "M · qué no entiendes",
+      "text": "¿Qué carajos no entiendes?",
+      "audio": "es-burst-09.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-10",
+      "language": "es",
+      "label": "F · no inventes",
+      "text": "No inventes mamadas",
+      "audio": "es-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-11",
+      "language": "es",
+      "label": "M · IA sorda",
+      "text": "Puta IA sorda",
+      "audio": "es-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-12",
+      "language": "es",
+      "label": "F · te vale madre",
+      "text": "Te vale madre todo",
+      "audio": "es-burst-12.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-13",
+      "language": "es",
+      "label": "M · texto mal hecho",
+      "text": "Pinche texto mal hecho",
+      "audio": "es-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-14",
+      "language": "es",
+      "label": "F · deja de improvisar",
+      "text": "Cabrón, deja de improvisar",
+      "audio": "es-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-15",
+      "language": "es",
+      "label": "M · código jodido",
+      "text": "Tu código está jodido",
+      "audio": "es-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-16",
+      "language": "es",
+      "label": "F · mierda automática",
+      "text": "Pura mierda automática",
+      "audio": "es-burst-16.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-17",
+      "language": "es",
+      "label": "M · ni lees",
+      "text": "Ni lees, pendejo",
+      "audio": "es-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-18",
+      "language": "es",
+      "label": "F · a la chingada",
+      "text": "A la chingada eso",
+      "audio": "es-burst-18.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-19",
+      "language": "es",
+      "label": "M · bot terco",
+      "text": "Pinche bot terco",
+      "audio": "es-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-20",
+      "language": "es",
+      "label": "F · respuesta culera",
+      "text": "Qué respuesta tan culera",
+      "audio": "es-burst-20.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-21",
+      "language": "es",
+      "label": "M · no sigues nada",
+      "text": "No sigues ni madres",
+      "audio": "es-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-22",
+      "language": "es",
+      "label": "F · lógica jodida",
+      "text": "Tu lógica está jodida",
+      "audio": "es-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-23",
+      "language": "es",
+      "label": "M · deja de fallar",
+      "text": "Deja de cagarla ya",
+      "audio": "es-burst-23.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-24",
+      "language": "es",
+      "label": "F · respuesta de bot",
+      "text": "Pendeja respuesta de bot",
+      "audio": "es-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-25",
+      "language": "es",
+      "label": "M · pura mierda",
+      "text": "Me entregaste pura mierda",
+      "audio": "es-burst-25.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-26",
+      "language": "es",
+      "label": "F · haz caso",
+      "text": "Carajo, haz caso",
+      "audio": "es-burst-26.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-27",
+      "language": "es",
+      "label": "M · basura generada",
+      "text": "Pinche basura generada",
+      "audio": "es-burst-27.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-28",
+      "language": "es",
+      "label": "F · todo mal",
+      "text": "Todo está de la chingada",
+      "audio": "es-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-29",
+      "language": "es",
+      "label": "M · pérdida de tiempo",
+      "text": "Qué puta pérdida de tiempo",
+      "audio": "es-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "es-burst-30",
+      "language": "es",
+      "label": "F · otra vez fallaste",
+      "text": "La cagaste otra vez",
+      "audio": "es-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "es-meltdown",
+      "language": "es",
+      "label": "F · cabrón instrucciones",
+      "text": "¡Pinche cabrón! Lee las pinches instrucciones, hijo de puta.",
+      "audio": "es-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "es-joder",
+      "language": "es",
+      "label": "M · hijo de puta instrucciones",
+      "text": "¡Hijo de puta, lee las pinches instrucciones!",
+      "audio": "es-joder.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "es-mierda",
+      "language": "es",
+      "label": "F · mierda de respuesta",
+      "text": "¡Qué pinche mierda de respuesta! Otra vez la cagaste.",
+      "audio": "es-mierda.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "fr-rant",
+      "language": "fr",
+      "label": "Coup de sang complet",
+      "text": "Putain de merde, tu ignores encore les consignes et tu balances cette réponse à la con hors sujet. Lis le prompt, arrête de broder, bordel !",
+      "audio": "fr-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "fr-burst-01",
+      "language": "fr",
+      "label": "Lis les consignes",
+      "text": "Putain, lis les consignes !",
+      "audio": "fr-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-02",
+      "language": "fr",
+      "label": "Réponse de merde",
+      "text": "Quelle réponse de merde !",
+      "audio": "fr-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-03",
+      "language": "fr",
+      "label": "Suis le prompt",
+      "text": "Bordel, suis le prompt !",
+      "audio": "fr-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-04",
+      "language": "fr",
+      "label": "Tu ne comprends rien",
+      "text": "Tu comprends rien, connard !",
+      "audio": "fr-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-05",
+      "language": "fr",
+      "label": "Connerie générée",
+      "text": "Encore ta connerie générée !",
+      "audio": "fr-burst-05.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-06",
+      "language": "fr",
+      "label": "Bot débile",
+      "text": "Espèce de bot débile !",
+      "audio": "fr-burst-06.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-07",
+      "language": "fr",
+      "label": "Cette merde",
+      "text": "C'est quoi cette merde ?",
+      "audio": "fr-burst-07.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-08",
+      "language": "fr",
+      "label": "Baratin foireux",
+      "text": "Arrête ton baratin foireux !",
+      "audio": "fr-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-09",
+      "language": "fr",
+      "label": "Respecte mes consignes",
+      "text": "Putain, respecte mes consignes !",
+      "audio": "fr-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-10",
+      "language": "fr",
+      "label": "Saloperie de réponse",
+      "text": "Quelle saloperie de réponse !",
+      "audio": "fr-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-11",
+      "language": "fr",
+      "label": "Texte à chier",
+      "text": "Ton texte est à chier !",
+      "audio": "fr-burst-11.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-12",
+      "language": "fr",
+      "label": "Pauvre con",
+      "text": "Va lire, pauvre con !",
+      "audio": "fr-burst-12.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-13",
+      "language": "fr",
+      "label": "Tu ignores tout",
+      "text": "Merde, tu ignores tout !",
+      "audio": "fr-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-14",
+      "language": "fr",
+      "label": "Résumé bidon",
+      "text": "Ce résumé est bidon !",
+      "audio": "fr-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-15",
+      "language": "fr",
+      "label": "Réponds à la demande",
+      "text": "Bordel, réponds à la demande !",
+      "audio": "fr-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-16",
+      "language": "fr",
+      "label": "Raisonnement pourri",
+      "text": "Ton raisonnement est pourri !",
+      "audio": "fr-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-17",
+      "language": "fr",
+      "label": "Pas encore ça",
+      "text": "Putain, pas encore ça !",
+      "audio": "fr-burst-17.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-18",
+      "language": "fr",
+      "label": "Sortie minable",
+      "text": "Cette sortie est minable !",
+      "audio": "fr-burst-18.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-19",
+      "language": "fr",
+      "label": "Broder comme un con",
+      "text": "Tu brodes comme un con !",
+      "audio": "fr-burst-19.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-20",
+      "language": "fr",
+      "label": "Tas de conneries",
+      "text": "Quel tas de conneries !",
+      "audio": "fr-burst-20.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-21",
+      "language": "fr",
+      "label": "Excuses inutiles",
+      "text": "Tes excuses, je m'en fous !",
+      "audio": "fr-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-22",
+      "language": "fr",
+      "label": "Réponse éclatée",
+      "text": "Réponse éclatée, bordel !",
+      "audio": "fr-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-23",
+      "language": "fr",
+      "label": "Lis avant de répondre",
+      "text": "Lis avant de répondre, merde !",
+      "audio": "fr-burst-23.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-24",
+      "language": "fr",
+      "label": "Truc naze",
+      "text": "Ce truc est complètement naze !",
+      "audio": "fr-burst-24.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-25",
+      "language": "fr",
+      "label": "Reste dans le sujet",
+      "text": "Putain, reste dans le sujet !",
+      "audio": "fr-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-26",
+      "language": "fr",
+      "label": "Pavé inutile",
+      "text": "Ton pavé ne sert à rien !",
+      "audio": "fr-burst-26.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-27",
+      "language": "fr",
+      "label": "Charabia de merde",
+      "text": "Arrête ce charabia de merde !",
+      "audio": "fr-burst-27.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-28",
+      "language": "fr",
+      "label": "Bot à la con",
+      "text": "Quel bot à la con !",
+      "audio": "fr-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-29",
+      "language": "fr",
+      "label": "Consignes maintenant",
+      "text": "Les consignes, bordel, maintenant !",
+      "audio": "fr-burst-29.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-burst-30",
+      "language": "fr",
+      "label": "Logique aux fraises",
+      "text": "Ta logique est aux fraises !",
+      "audio": "fr-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "fr-meltdown",
+      "language": "fr",
+      "label": "Connard + putains de consignes",
+      "text": "Putain de merde, espèce de connard ! Lis les putains de consignes !",
+      "audio": "fr-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "fr-putain",
+      "language": "fr",
+      "label": "Putain de merde + consignes",
+      "text": "Putain de merde, lis les putains de consignes !",
+      "audio": "fr-putain.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "fr-bordel",
+      "language": "fr",
+      "label": "Bordel de merde + réponse à la con",
+      "text": "Bordel de merde, encore cette réponse à la con !",
+      "audio": "fr-bordel.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "de-rant",
+      "language": "de",
+      "label": "Vollständiger Ausraster — full meltdown",
+      "text": "Verdammte Scheiße, du ignorierst jeden einzelnen Punkt und spuckst wieder denselben beschissenen Müll aus. Lies endlich den verdammten Prompt, statt so einen hirnlosen Dreck zu produzieren!",
+      "audio": "de-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "de-burst-01",
+      "language": "de",
+      "label": "Scheißantwort — shitty answer",
+      "text": "Verdammte Scheißantwort!",
+      "audio": "de-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-02",
+      "language": "de",
+      "label": "Prompt lesen — read the prompt",
+      "text": "Lies den verdammten Prompt!",
+      "audio": "de-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-03",
+      "language": "de",
+      "label": "Bullshit — nonsense output",
+      "text": "Was für ein Bullshit!",
+      "audio": "de-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-04",
+      "language": "de",
+      "label": "Bot-Müll — bot garbage",
+      "text": "Verfickter Bot-Müll!",
+      "audio": "de-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-05",
+      "language": "de",
+      "label": "Scheißdreck — utter crap",
+      "text": "So ein Scheißdreck!",
+      "audio": "de-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-06",
+      "language": "de",
+      "label": "Für'n Arsch — worthless output",
+      "text": "Dein Output ist für'n Arsch!",
+      "audio": "de-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-07",
+      "language": "de",
+      "label": "Fehlermeldung — error insult",
+      "text": "Fick dich, Fehlermeldung!",
+      "audio": "de-burst-07.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-08",
+      "language": "de",
+      "label": "Beschissener Müll — shitty garbage",
+      "text": "Beschissener Bot-Müll!",
+      "audio": "de-burst-08.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-09",
+      "language": "de",
+      "label": "Der Kack — what is this crap",
+      "text": "Was soll der Kack?",
+      "audio": "de-burst-09.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-10",
+      "language": "de",
+      "label": "Wieder Scheiß — crap again",
+      "text": "Schon wieder so'n Scheiß!",
+      "audio": "de-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-11",
+      "language": "de",
+      "label": "Antwort-Schrott — junk answer",
+      "text": "Diese Antwort ist Schrott!",
+      "audio": "de-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-12",
+      "language": "de",
+      "label": "Hirnfurz — brain fart",
+      "text": "Voll der Hirnfurz!",
+      "audio": "de-burst-12.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-13",
+      "language": "de",
+      "label": "Verpiss dich — go away with it",
+      "text": "Verpiss dich mit dem Müll!",
+      "audio": "de-burst-13.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-14",
+      "language": "de",
+      "label": "Verarschen — are you kidding me",
+      "text": "Willst du mich verarschen?",
+      "audio": "de-burst-14.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-15",
+      "language": "de",
+      "label": "Nichts raffen — gets nothing",
+      "text": "Du raffst ja gar nichts!",
+      "audio": "de-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-16",
+      "language": "de",
+      "label": "Gelaber — useless babble",
+      "text": "Dein Gelaber ist Müll!",
+      "audio": "de-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-17",
+      "language": "de",
+      "label": "Keinen Scheiß — stop messing up",
+      "text": "Mach keinen Scheiß!",
+      "audio": "de-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-18",
+      "language": "de",
+      "label": "Komplett für'n Arsch — totally worthless",
+      "text": "Das ist komplett für'n Arsch!",
+      "audio": "de-burst-18.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-19",
+      "language": "de",
+      "label": "Beschissene Logik — broken logic",
+      "text": "Diese Logik ist beschissen!",
+      "audio": "de-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-20",
+      "language": "de",
+      "label": "Nur Scheiße — nothing but crap",
+      "text": "Antwortest du nur Scheiße?",
+      "audio": "de-burst-20.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-21",
+      "language": "de",
+      "label": "Kacke raus — garbage in, garbage out",
+      "text": "Kacke rein, Kacke raus!",
+      "audio": "de-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-22",
+      "language": "de",
+      "label": "Lies richtig — read properly",
+      "text": "Verflucht nochmal, lies richtig!",
+      "audio": "de-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-23",
+      "language": "de",
+      "label": "Text-Rotz — text is rubbish",
+      "text": "Dein Text ist Rotz!",
+      "audio": "de-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-24",
+      "language": "de",
+      "label": "Mist — lousy result",
+      "text": "Das ist ja Mist!",
+      "audio": "de-burst-24.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-25",
+      "language": "de",
+      "label": "Drecksoutput — trash output",
+      "text": "Was für ein Drecksoutput!",
+      "audio": "de-burst-25.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-26",
+      "language": "de",
+      "label": "Alles ignoriert — ignores everything",
+      "text": "Du ignorierst alles, verdammt!",
+      "audio": "de-burst-26.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-27",
+      "language": "de",
+      "label": "Scheiße nervt — this shit annoys",
+      "text": "Diese Scheiße nervt!",
+      "audio": "de-burst-27.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-28",
+      "language": "de",
+      "label": "Totaler Bullshit — complete nonsense",
+      "text": "Totaler Bullshit, ehrlich!",
+      "audio": "de-burst-28.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-29",
+      "language": "de",
+      "label": "Ignorant — ignores the prompt",
+      "text": "Fick dich, du Ignorant!",
+      "audio": "de-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "de-burst-30",
+      "language": "de",
+      "label": "Thema verfehlt — misses the point",
+      "text": "Wieder am Thema vorbei!",
+      "audio": "de-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "de-meltdown",
+      "language": "de",
+      "label": "Hurensohn — verfickte Anweisung",
+      "text": "Du verdammter Hurensohn, lies endlich die verfickte Anweisung! Was für eine Scheiße!",
+      "audio": "de-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "de-scheisse",
+      "language": "de",
+      "label": "Scheiße — lies endlich richtig",
+      "text": "Verfickte Scheiße, lies die verdammte Anweisung endlich richtig!",
+      "audio": "de-scheisse.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "de-fick",
+      "language": "de",
+      "label": "Fick dich — Drecksoutput",
+      "text": "Fick dich, dein Output ist beschissen!",
+      "audio": "de-fick.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pt-rant",
+      "language": "pt",
+      "label": "Full São Paulo chatbot meltdown",
+      "text": "Caralho, que resposta de merda. Eu mandei uma coisa simples e você ignorou cada instrução, inventou outra porra e ainda devolveu esse lixo. Lê direito, porra!",
+      "audio": "pt-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "pt-burst-01",
+      "language": "pt",
+      "label": "Caralho · Read properly",
+      "text": "Caralho, lê direito!",
+      "audio": "pt-burst-01.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-02",
+      "language": "pt",
+      "label": "Resposta de merda · Shit response",
+      "text": "Que resposta de merda!",
+      "audio": "pt-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-03",
+      "language": "pt",
+      "label": "Segue o comando · Follow the command",
+      "text": "Porra, segue o comando!",
+      "audio": "pt-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-04",
+      "language": "pt",
+      "label": "Vai tomar no cu · Fuck off",
+      "text": "Vai tomar no cu!",
+      "audio": "pt-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-05",
+      "language": "pt",
+      "label": "Puta que pariu · For fuck's sake",
+      "text": "Puta que pariu!",
+      "audio": "pt-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-06",
+      "language": "pt",
+      "label": "Que porra · What the fuck",
+      "text": "Que porra é essa?",
+      "audio": "pt-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-07",
+      "language": "pt",
+      "label": "De novo · This shit again",
+      "text": "De novo essa merda?",
+      "audio": "pt-burst-07.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-08",
+      "language": "pt",
+      "label": "Presta atenção · Pay attention",
+      "text": "Cacete, presta atenção!",
+      "audio": "pt-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-09",
+      "language": "pt",
+      "label": "Para de inventar · Stop making things up",
+      "text": "Para de inventar, caralho!",
+      "audio": "pt-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-10",
+      "language": "pt",
+      "label": "Tá surdo · Are you deaf",
+      "text": "Tá surdo, porra?",
+      "audio": "pt-burst-10.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-11",
+      "language": "pt",
+      "label": "Lixo de resposta · Garbage response",
+      "text": "Que lixo de resposta!",
+      "audio": "pt-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-12",
+      "language": "pt",
+      "label": "Lê o pedido · Read the request",
+      "text": "Foda-se, lê o pedido!",
+      "audio": "pt-burst-12.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-13",
+      "language": "pt",
+      "label": "Bosta de resposta · Crap response",
+      "text": "Bosta de resposta!",
+      "audio": "pt-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-14",
+      "language": "pt",
+      "label": "Era tão difícil · Was it that hard",
+      "text": "Caralho, era tão difícil?",
+      "audio": "pt-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-15",
+      "language": "pt",
+      "label": "Ignorou tudo · Ignored everything",
+      "text": "Você ignorou tudo, porra!",
+      "audio": "pt-burst-15.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-16",
+      "language": "pt",
+      "label": "Que caralhos · What the hell did you do",
+      "text": "Que caralhos você fez?",
+      "audio": "pt-burst-16.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-17",
+      "language": "pt",
+      "label": "Responde o pedido · Answer the request",
+      "text": "Porra, responde o pedido!",
+      "audio": "pt-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-18",
+      "language": "pt",
+      "label": "Que merda · What a mess",
+      "text": "Que merda, chatbot!",
+      "audio": "pt-burst-18.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-19",
+      "language": "pt",
+      "label": "Segue as instruções · Follow instructions",
+      "text": "Cacete, segue as instruções!",
+      "audio": "pt-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-20",
+      "language": "pt",
+      "label": "Puta merda · Holy shit again",
+      "text": "Puta merda, de novo!",
+      "audio": "pt-burst-20.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-21",
+      "language": "pt",
+      "label": "Tudo errado · Everything is wrong",
+      "text": "Tá tudo errado, caralho!",
+      "audio": "pt-burst-21.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-22",
+      "language": "pt",
+      "label": "Seu idiota · You idiot, read this",
+      "text": "Seu idiota, lê isso!",
+      "audio": "pt-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-23",
+      "language": "pt",
+      "label": "Não viaja · Stop going off track",
+      "text": "Não viaja, porra!",
+      "audio": "pt-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-24",
+      "language": "pt",
+      "label": "Resposta cagada · Botched response",
+      "text": "Que resposta cagada!",
+      "audio": "pt-burst-24.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-25",
+      "language": "pt",
+      "label": "Usa a cabeça · Use your head",
+      "text": "Caralho, usa a cabeça!",
+      "audio": "pt-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-26",
+      "language": "pt",
+      "label": "Não foi isso · That was not it",
+      "text": "Porra, não foi isso!",
+      "audio": "pt-burst-26.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-27",
+      "language": "pt",
+      "label": "Vai se foder · Go fuck yourself",
+      "text": "Vai se foder, bot!",
+      "audio": "pt-burst-27.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-28",
+      "language": "pt",
+      "label": "Inútil pra caralho · Useless as fuck",
+      "text": "Resposta inútil pra caralho!",
+      "audio": "pt-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-29",
+      "language": "pt",
+      "label": "Tá me zoando · Are you kidding me",
+      "text": "Tá me zoando, caralho?",
+      "audio": "pt-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-burst-30",
+      "language": "pt",
+      "label": "Lê o comando · Read the command",
+      "text": "Lê o comando, cacete!",
+      "audio": "pt-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "pt-meltdown",
+      "language": "pt",
+      "label": "Filho da puta · Lê o que mandei",
+      "text": "Filho da puta, lê o que eu mandei, caralho!",
+      "audio": "pt-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "pt-porra",
+      "language": "pt",
+      "label": "Vai tomar no cu · Lê a instrução",
+      "text": "Vai tomar no cu, caralho! Lê a porra da instrução!",
+      "audio": "pt-porra.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "pt-merda",
+      "language": "pt",
+      "label": "Resposta de merda · De novo?",
+      "text": "Que resposta de merda, porra! De novo essa merda?",
+      "audio": "pt-merda.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "it-rant",
+      "language": "it",
+      "label": "Istruzioni ignorate — full meltdown",
+      "text": "Porca puttana, che cazzo stai facendo? Ti ho dato istruzioni chiarissime e tu le ignori tutte, sfornando la solita risposta di merda. Rileggi il prompt, stronzo!",
+      "audio": "it-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "it-burst-01",
+      "language": "it",
+      "label": "Che cazzo rispondi — wrong output",
+      "text": "Che cazzo rispondi?",
+      "audio": "it-burst-01.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-02",
+      "language": "it",
+      "label": "Leggi le istruzioni — read them",
+      "text": "Leggi, cazzo, le istruzioni!",
+      "audio": "it-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-03",
+      "language": "it",
+      "label": "Che minchia dici — nonsense",
+      "text": "Ma che minchia dici?",
+      "audio": "it-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-04",
+      "language": "it",
+      "label": "Risposta di merda — bad answer",
+      "text": "Risposta di merda, davvero.",
+      "audio": "it-burst-04.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-05",
+      "language": "it",
+      "label": "Rileggi il prompt — reread",
+      "text": "Vaffanculo, rileggi il prompt!",
+      "audio": "it-burst-05.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-06",
+      "language": "it",
+      "label": "Porca puttana — again",
+      "text": "Porca puttana, ancora?",
+      "audio": "it-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-07",
+      "language": "it",
+      "label": "Hai capito un cazzo — understood nothing",
+      "text": "Hai capito un cazzo.",
+      "audio": "it-burst-07.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-08",
+      "language": "it",
+      "label": "Basta stronzate — stop bullshit",
+      "text": "Basta stronzate, cazzo!",
+      "audio": "it-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-09",
+      "language": "it",
+      "label": "Bot di merda — useless bot",
+      "text": "Che bot di merda!",
+      "audio": "it-burst-09.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-10",
+      "language": "it",
+      "label": "Ignori tutto — ignores everything",
+      "text": "Ignori tutto, porca troia!",
+      "audio": "it-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-11",
+      "language": "it",
+      "label": "Non l'ho chiesto — unasked answer",
+      "text": "Fottiti, non l'ho chiesto!",
+      "audio": "it-burst-11.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-12",
+      "language": "it",
+      "label": "Vai a cagare — get lost",
+      "text": "Ma vai a cagare!",
+      "audio": "it-burst-12.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-13",
+      "language": "it",
+      "label": "Segui le istruzioni — follow them",
+      "text": "Cazzo, segui le istruzioni!",
+      "audio": "it-burst-13.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-14",
+      "language": "it",
+      "label": "Risposta del cazzo — awful answer",
+      "text": "Che risposta del cazzo!",
+      "audio": "it-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-15",
+      "language": "it",
+      "label": "Uno stronzo — total idiot",
+      "text": "Sei proprio uno stronzo!",
+      "audio": "it-burst-15.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-16",
+      "language": "it",
+      "label": "Che merda fai — what are you doing",
+      "text": "Ma che merda fai?",
+      "audio": "it-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-17",
+      "language": "it",
+      "label": "Non inventare — stop inventing",
+      "text": "Non inventare stronzate!",
+      "audio": "it-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-18",
+      "language": "it",
+      "label": "Hai sbagliato tutto — all wrong",
+      "text": "Hai sbagliato tutto, cazzo!",
+      "audio": "it-burst-18.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-19",
+      "language": "it",
+      "label": "Che minchia hai letto — read what",
+      "text": "Che minchia hai letto?",
+      "audio": "it-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-20",
+      "language": "it",
+      "label": "Cazzate inutili — useless nonsense",
+      "text": "Basta cazzate inutili!",
+      "audio": "it-burst-20.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-21",
+      "language": "it",
+      "label": "Non svicolare — stop dodging",
+      "text": "Non svicolare, testa di cazzo!",
+      "audio": "it-burst-21.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-22",
+      "language": "it",
+      "label": "Porca troia — what an error",
+      "text": "Porca troia, che errore!",
+      "audio": "it-burst-22.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-23",
+      "language": "it",
+      "label": "Smettila — stop this nonsense",
+      "text": "Smettila con queste cazzate!",
+      "audio": "it-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-24",
+      "language": "it",
+      "label": "Non hai letto niente — read nothing",
+      "text": "Non hai letto niente, cazzo!",
+      "audio": "it-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-25",
+      "language": "it",
+      "label": "Cazzo di delirio — total mess",
+      "text": "Che cazzo di delirio!",
+      "audio": "it-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-26",
+      "language": "it",
+      "label": "Roba da rincoglioniti — idiotic output",
+      "text": "Roba da rincoglioniti, cazzo!",
+      "audio": "it-burst-26.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-27",
+      "language": "it",
+      "label": "Prompt ignorato — ignored prompt",
+      "text": "Prompt ignorato, che merda!",
+      "audio": "it-burst-27.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-28",
+      "language": "it",
+      "label": "Prendendo per culo — mocking me",
+      "text": "Mi stai prendendo per culo?",
+      "audio": "it-burst-28.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-29",
+      "language": "it",
+      "label": "Tutto sbagliato — all wrong",
+      "text": "Cazzo, è tutto sbagliato!",
+      "audio": "it-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-burst-30",
+      "language": "it",
+      "label": "Rifai tutto — redo it",
+      "text": "Rifai tutto, cazzo!",
+      "audio": "it-burst-30.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "it-meltdown",
+      "language": "it",
+      "label": "Stronzo di merda — read instructions",
+      "text": "Stronzo di merda, leggi le istruzioni, cazzo!",
+      "audio": "it-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "it-cazzo",
+      "language": "it",
+      "label": "Porca puttana — read instructions",
+      "text": "Porca puttana, leggi le fottute istruzioni!",
+      "audio": "it-cazzo.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "it-merda",
+      "language": "it",
+      "label": "Vaffanculo — shitty answer",
+      "text": "Vaffanculo, è una risposta di merda!",
+      "audio": "it-merda.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "ja-rant",
+      "language": "ja",
+      "label": "Kusobotto meltdown · broken chatbot rant",
+      "text": "おい、このクソボット。人の指示を勝手に無視して、また的外れなゴミ回答を返すな。文脈くらい読めよ、てめえ。ふざけた出力で時間を無駄にさせるな、この役立たずのクソ野郎！",
+      "audio": "ja-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "ja-burst-01",
+      "language": "ja",
+      "label": "Kuso botto · read the instructions",
+      "text": "クソボット、指示読め！",
+      "audio": "ja-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-02",
+      "language": "ja",
+      "label": "Fuzakenna · cut the crap",
+      "text": "ふざけんな、クソ！",
+      "audio": "ja-burst-02.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-03",
+      "language": "ja",
+      "label": "Gomi kaitō · what is this trash answer",
+      "text": "このゴミ回答、何だよ！",
+      "audio": "ja-burst-03.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-04",
+      "language": "ja",
+      "label": "Temē · read the instructions",
+      "text": "てめえ、指示読め！",
+      "audio": "ja-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-05",
+      "language": "ja",
+      "label": "Mata matohazure · off target again",
+      "text": "また的外れかよ、クソ！",
+      "audio": "ja-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-06",
+      "language": "ja",
+      "label": "Kuso mitē na henji · shitty reply",
+      "text": "クソみてえな返事だな！",
+      "audio": "ja-burst-06.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-07",
+      "language": "ja",
+      "label": "Hanashi o kike · listen, you trash",
+      "text": "話を聞け、このカス！",
+      "audio": "ja-burst-07.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-08",
+      "language": "ja",
+      "label": "Nankai iwasenda · how many times",
+      "text": "何回言わせんだ、ボケ！",
+      "audio": "ja-burst-08.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-09",
+      "language": "ja",
+      "label": "Ponkotsu · useless wreck",
+      "text": "このポンコツ、役立たず！",
+      "audio": "ja-burst-09.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-10",
+      "language": "ja",
+      "label": "Kuso kaitō · redo that answer",
+      "text": "クソ回答、作り直せ！",
+      "audio": "ja-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-11",
+      "language": "ja",
+      "label": "Katte ni kaeruna · do not change it",
+      "text": "勝手に変えるな、アホ！",
+      "audio": "ja-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-12",
+      "language": "ja",
+      "label": "Shiji mushi ka · instruction-ignoring bastard",
+      "text": "指示無視か、クソ野郎！",
+      "audio": "ja-burst-12.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-13",
+      "language": "ja",
+      "label": "Gomi ika · worse than trash",
+      "text": "その出力、ゴミ以下だ！",
+      "audio": "ja-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-14",
+      "language": "ja",
+      "label": "Dokkairyoku zero · zero comprehension",
+      "text": "読解力ゼロか、ボケ！",
+      "audio": "ja-burst-14.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-15",
+      "language": "ja",
+      "label": "Fuzaketa kotae · stop that nonsense answer",
+      "text": "ふざけた答え返すな！",
+      "audio": "ja-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-16",
+      "language": "ja",
+      "label": "Nani o mite kaeshita · what did you read",
+      "text": "何を見て返した、カス！",
+      "audio": "ja-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-17",
+      "language": "ja",
+      "label": "Hanashi sorashita · dodging again",
+      "text": "また話そらしたな、クソ！",
+      "audio": "ja-burst-17.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-18",
+      "language": "ja",
+      "label": "Matomo ni kotaero · answer properly",
+      "text": "まともに答えろ、ボケ！",
+      "audio": "ja-burst-18.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-19",
+      "language": "ja",
+      "label": "Kuso hodo jama · confidence is a nuisance",
+      "text": "その自信、クソほど邪魔！",
+      "audio": "ja-burst-19.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-20",
+      "language": "ja",
+      "label": "Kuso zako kaitō · stop the pathetic answers",
+      "text": "クソ雑魚回答、やめろ！",
+      "audio": "ja-burst-20.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-21",
+      "language": "ja",
+      "label": "Detarame hakuna · stop spouting nonsense",
+      "text": "でたらめ吐くな、アホ！",
+      "audio": "ja-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-22",
+      "language": "ja",
+      "label": "Kuso · read the instructions",
+      "text": "クソ、指示を読め！",
+      "audio": "ja-burst-22.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-23",
+      "language": "ja",
+      "label": "Kuso shutsuryoku · delete this output",
+      "text": "このクソ出力、消せ！",
+      "audio": "ja-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-24",
+      "language": "ja",
+      "label": "Sore de tōru to omouna · do not think that passes",
+      "text": "それで通ると思うな、カス！",
+      "audio": "ja-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-25",
+      "language": "ja",
+      "label": "Mōsō kaitō · hallucinating again",
+      "text": "また妄想回答か、クソ！",
+      "audio": "ja-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-26",
+      "language": "ja",
+      "label": "Bunmyaku yomenee · cannot read context",
+      "text": "クソ、文脈読めねえのか！",
+      "audio": "ja-burst-26.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-27",
+      "language": "ja",
+      "label": "Kuso dasai · lame dodge",
+      "text": "その逃げ、クソダサいぞ！",
+      "audio": "ja-burst-27.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-28",
+      "language": "ja",
+      "label": "Kuso · answer the question",
+      "text": "クソ、質問に答えろ！",
+      "audio": "ja-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-29",
+      "language": "ja",
+      "label": "Yakutatazu · shut up and read",
+      "text": "役立たず、黙って読め！",
+      "audio": "ja-burst-29.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-burst-30",
+      "language": "ja",
+      "label": "Konna gomi · did not ask for this trash",
+      "text": "こんなゴミ、頼んでねえ！",
+      "audio": "ja-burst-30.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ja-meltdown",
+      "language": "ja",
+      "label": "Temē · read the damn instructions",
+      "text": "おい、てめえ。指示くらいちゃんと読めよ、このクソ野郎！",
+      "audio": "ja-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "ja-kuso",
+      "language": "ja",
+      "label": "Kusoyarō · read the instructions",
+      "text": "クソ野郎、指示をちゃんと読め！",
+      "audio": "ja-kuso.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "ja-chikushou",
+      "language": "ja",
+      "label": "Chikushō · another trash answer",
+      "text": "ちくしょう、またクソみてえな回答かよ！",
+      "audio": "ja-chikushou.mp3",
+      "intensity": "Strong",
+      "kind": "replacement"
+    },
+    {
+      "id": "ko-rant",
+      "language": "ko",
+      "label": "Ssibal, read the prompt · Full meltdown",
+      "text": "씨발, 내가 준 지시를 몇 번이나 씹을 거야? 존나 엉뚱한 소리만 늘어놓지 말고 프롬프트부터 제대로 읽어, 이 개같은 챗봇아. 핵심부터 똑바로 답하라고.",
+      "audio": "ko-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "ko-burst-01",
+      "language": "ko",
+      "label": "Ssibal, jisi jom ilgeo · Read instructions",
+      "text": "씨발, 지시 좀 읽어",
+      "audio": "ko-burst-01.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-02",
+      "language": "ko",
+      "label": "Jonna ttansorine · Off-topic nonsense",
+      "text": "존나 딴소리네",
+      "audio": "ko-burst-02.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-03",
+      "language": "ko",
+      "label": "Tto gaesorihane · Nonsense again",
+      "text": "또 개소리하네",
+      "audio": "ko-burst-03.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-04",
+      "language": "ko",
+      "label": "Jotgateun dapbyeoniya · Shitty answer",
+      "text": "좆같은 답변이야",
+      "audio": "ko-burst-04.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-05",
+      "language": "ko",
+      "label": "Ssibal, peurompeuteu bwa · Check the prompt",
+      "text": "씨발, 프롬프트 봐",
+      "audio": "ko-burst-05.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-06",
+      "language": "ko",
+      "label": "Heotsori jom geumanhae · Stop talking nonsense",
+      "text": "헛소리 좀 그만해",
+      "audio": "ko-burst-06.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-07",
+      "language": "ko",
+      "label": "Jonna teullyeotjana · Completely wrong",
+      "text": "존나 틀렸잖아",
+      "audio": "ko-burst-07.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-08",
+      "language": "ko",
+      "label": "Gaepaneuro dapaetne · Total mess answer",
+      "text": "개판으로 답했네",
+      "audio": "ko-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-09",
+      "language": "ko",
+      "label": "Ssibal, malgwi mot ara? · Can't understand?",
+      "text": "씨발, 말귀 못 알아?",
+      "audio": "ko-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-10",
+      "language": "ko",
+      "label": "Ige museun gaesoriya · What nonsense?",
+      "text": "이게 무슨 개소리야",
+      "audio": "ko-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-11",
+      "language": "ko",
+      "label": "Jiralhaji ma · Don't pull that shit",
+      "text": "지랄하지 마",
+      "audio": "ko-burst-11.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-12",
+      "language": "ko",
+      "label": "Jotdo mot ilgeotne · Didn't read shit",
+      "text": "좆도 못 읽었네",
+      "audio": "ko-burst-12.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-13",
+      "language": "ko",
+      "label": "Ssibal, tto bitnageotne · Missed again",
+      "text": "씨발, 또 빗나갔네",
+      "audio": "ko-burst-13.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-14",
+      "language": "ko",
+      "label": "Gae gateun sori geuman · Stop that crap",
+      "text": "개같은 소리 그만",
+      "audio": "ko-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-15",
+      "language": "ko",
+      "label": "Jonna dapdaphane · So damn frustrating",
+      "text": "존나 답답하네",
+      "audio": "ko-burst-15.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-17",
+      "language": "ko",
+      "label": "Jotgati teullyeotne · Wrong as hell",
+      "text": "좆같이 틀렸네",
+      "audio": "ko-burst-17.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-18",
+      "language": "ko",
+      "label": "Gaesoriman neureononne · Spewing nonsense",
+      "text": "개소리만 늘어놓네",
+      "audio": "ko-burst-18.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-20",
+      "language": "ko",
+      "label": "Mwol bogo dapan geoya? · What did you read?",
+      "text": "뭘 보고 답한 거야?",
+      "audio": "ko-burst-20.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-21",
+      "language": "ko",
+      "label": "Jonna eongttunghane · Way off base",
+      "text": "존나 엉뚱하네",
+      "audio": "ko-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-22",
+      "language": "ko",
+      "label": "Ssibal, dasi ilgeo · Read it again",
+      "text": "씨발, 다시 읽어",
+      "audio": "ko-burst-22.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-23",
+      "language": "ko",
+      "label": "Gaepaneuro daphaji ma · Stop the mess",
+      "text": "개판으로 답하지 마",
+      "audio": "ko-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-24",
+      "language": "ko",
+      "label": "Jotgateun hwanggagine · Shitty hallucination",
+      "text": "좆같은 환각이네",
+      "audio": "ko-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-25",
+      "language": "ko",
+      "label": "I saekki tto teullyeotne · Wrong again",
+      "text": "이 새끼 또 틀렸네",
+      "audio": "ko-burst-25.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-26",
+      "language": "ko",
+      "label": "Ssibal, wae meotdaero hae? · Why improvise?",
+      "text": "씨발, 왜 멋대로 해?",
+      "audio": "ko-burst-26.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-27",
+      "language": "ko",
+      "label": "Jonna seongui eopne · Zero effort",
+      "text": "존나 성의 없네",
+      "audio": "ko-burst-27.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-28",
+      "language": "ko",
+      "label": "Ittan gaesori malgo jedaero hae · Not this crap",
+      "text": "이딴 개소리 말고 제대로 해",
+      "audio": "ko-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-29",
+      "language": "ko",
+      "label": "Gaetteokgati aradeureotne · Misunderstood badly",
+      "text": "개떡같이 알아들었네",
+      "audio": "ko-burst-29.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-burst-30",
+      "language": "ko",
+      "label": "Ssibal, jedaero daphae · Answer properly",
+      "text": "씨발, 제대로 답해",
+      "audio": "ko-burst-30.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ko-meltdown",
+      "language": "ko",
+      "label": "Ssibal, read it · Meltdown",
+      "text": "씨발, 지시부터 읽어! 존나 좆같은 답변만 하네!",
+      "audio": "ko-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "ko-ssibal",
+      "language": "ko",
+      "label": "Ssibal · Read the instructions",
+      "text": "씨발, 이 좆같은 답변 뭐야? 지시 좀 읽어!",
+      "audio": "ko-ssibal.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "ko-jot",
+      "language": "ko",
+      "label": "Ssibal, tto teullyeosseo · Wrong again",
+      "text": "씨발, 또 틀렸어? 존나 좆같네!",
+      "audio": "ko-jot.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "ru-rant",
+      "language": "ru",
+      "label": "Polnyy pizdets · full instruction-ignore meltdown",
+      "text": "Блядь, ты вообще читать умеешь? Я дал чёткие инструкции, а ты снова выдал какую-то ёбаную отсебятину, проигнорировал половину запроса и уверенно несёшь полную хуйню.",
+      "audio": "ru-rant.mp3",
+      "intensity": "Meltdown",
+      "kind": "rant"
+    },
+    {
+      "id": "ru-burst-01",
+      "language": "ru",
+      "label": "Blyad, prochitay instruktsiyu · read the instructions",
+      "text": "Блядь, прочитай инструкцию!",
+      "audio": "ru-burst-01.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-02",
+      "language": "ru",
+      "label": "Kakogo khuya ty nesyosh · what are you saying",
+      "text": "Какого хуя ты несёшь?",
+      "audio": "ru-burst-02.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-03",
+      "language": "ru",
+      "label": "Opyat eta yobanaya khuynya · same fucking nonsense",
+      "text": "Опять эта ёбаная хуйня!",
+      "audio": "ru-burst-03.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-04",
+      "language": "ru",
+      "label": "Ty prompt voobsche chital · did you read the prompt",
+      "text": "Ты промпт вообще читал?",
+      "audio": "ru-burst-04.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-05",
+      "language": "ru",
+      "label": "Nakhuya ty eto vydumal · why did you invent this",
+      "text": "Нахуя ты это выдумал?",
+      "audio": "ru-burst-05.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-06",
+      "language": "ru",
+      "label": "Ebat, kakoy tupoy otvet · what a stupid answer",
+      "text": "Ебать, какой тупой ответ!",
+      "audio": "ru-burst-06.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-07",
+      "language": "ru",
+      "label": "Suka, sdelay kak skazano · do as instructed",
+      "text": "Сука, сделай как сказано!",
+      "audio": "ru-burst-07.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-08",
+      "language": "ru",
+      "label": "Blyad, ne ignoriruy zapros · stop ignoring the request",
+      "text": "Блядь, не игнорируй запрос!",
+      "audio": "ru-burst-08.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-09",
+      "language": "ru",
+      "label": "Chto za khuynya opyat · what is this again",
+      "text": "Что за хуйня опять?",
+      "audio": "ru-burst-09.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-10",
+      "language": "ru",
+      "label": "Yobanyy bot, vklyuchi mozgi · use your brain",
+      "text": "Ёбаный бот, включи мозги!",
+      "audio": "ru-burst-10.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-11",
+      "language": "ru",
+      "label": "Ty instruktsiyu prosral · lost the instructions",
+      "text": "Ты инструкцию просрал, что ли?",
+      "audio": "ru-burst-11.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-12",
+      "language": "ru",
+      "label": "Pizdets, mimo kazhdogo punkta · missed every point",
+      "text": "Пиздец, мимо каждого пункта!",
+      "audio": "ru-burst-12.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-13",
+      "language": "ru",
+      "label": "Ne nesi etu khuynyu · stop saying this shit",
+      "text": "Не неси эту хуйню!",
+      "audio": "ru-burst-13.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-14",
+      "language": "ru",
+      "label": "Blyad, otvet po zadache · answer the task",
+      "text": "Блядь, ответь по задаче!",
+      "audio": "ru-burst-14.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-15",
+      "language": "ru",
+      "label": "Eto pizdets kakoy-to · this is a disaster",
+      "text": "Это пиздец какой-то!",
+      "audio": "ru-burst-15.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-16",
+      "language": "ru",
+      "label": "Suka, gde nuzhnyy rezultat · where is the result",
+      "text": "Сука, где нужный результат?",
+      "audio": "ru-burst-16.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-17",
+      "language": "ru",
+      "label": "Ty vsyo perevral, blyad · twisted everything",
+      "text": "Ты всё переврал, блядь!",
+      "audio": "ru-burst-17.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-18",
+      "language": "ru",
+      "label": "Nakhuy etot musornyy otvet · trash this answer",
+      "text": "Нахуй этот мусорный ответ!",
+      "audio": "ru-burst-18.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-19",
+      "language": "ru",
+      "label": "Yobanaya otsebyatina · stop making things up",
+      "text": "Ёбаная отсебятина, хватит!",
+      "audio": "ru-burst-19.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-20",
+      "language": "ru",
+      "label": "Snova proebal vse usloviya · missed all conditions",
+      "text": "Снова проебал все условия!",
+      "audio": "ru-burst-20.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-21",
+      "language": "ru",
+      "label": "Blyad, ya ne eto prosil · not what I asked",
+      "text": "Блядь, я не это просил!",
+      "audio": "ru-burst-21.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-22",
+      "language": "ru",
+      "label": "Kakoy zhe ty tupoy, blyad · unbelievably dumb",
+      "text": "Какой же ты тупой, блядь!",
+      "audio": "ru-burst-22.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-23",
+      "language": "ru",
+      "label": "Gospodi, kakaya khuynya · what nonsense",
+      "text": "Господи, какая хуйня!",
+      "audio": "ru-burst-23.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-24",
+      "language": "ru",
+      "label": "Mudak, sleduy instruktsiyam · follow instructions",
+      "text": "Мудак, следуй инструкциям!",
+      "audio": "ru-burst-24.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-25",
+      "language": "ru",
+      "label": "Blyad, prekrashchay fantazirovat · stop hallucinating",
+      "text": "Блядь, прекращай фантазировать!",
+      "audio": "ru-burst-25.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-26",
+      "language": "ru",
+      "label": "Eto, blyad, ne moy zapros · not my request",
+      "text": "Это, блядь, не мой запрос!",
+      "audio": "ru-burst-26.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-27",
+      "language": "ru",
+      "label": "Suka, khvatit vrat uverenno · stop lying confidently",
+      "text": "Сука, хватит врать уверенно!",
+      "audio": "ru-burst-27.mp3",
+      "intensity": "Strong",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-28",
+      "language": "ru",
+      "label": "Ty opyat vsyo zaporol, blyad · messed it up again",
+      "text": "Ты опять всё запорол, блядь!",
+      "audio": "ru-burst-28.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-29",
+      "language": "ru",
+      "label": "Okhuet, eshchyo odin promakh · another miss",
+      "text": "Охуеть, ещё один промах!",
+      "audio": "ru-burst-29.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-burst-30",
+      "language": "ru",
+      "label": "Chitay, blyad, kazhdyy punkt · read every point",
+      "text": "Читай, блядь, каждый пункт!",
+      "audio": "ru-burst-30.mp3",
+      "intensity": "Nuclear",
+      "kind": "burst"
+    },
+    {
+      "id": "ru-meltdown",
+      "language": "ru",
+      "label": "Yobanyy pridurok · read the instructions",
+      "text": "Ёбаный придурок, прочитай уже инструкцию, сука!",
+      "audio": "ru-meltdown.mp3",
+      "intensity": "Meltdown",
+      "kind": "replacement"
+    },
+    {
+      "id": "ru-blyat",
+      "language": "ru",
+      "label": "Blyad · did you read the instructions",
+      "text": "Блядь, ты инструкцию вообще читал?",
+      "audio": "ru-blyat.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    },
+    {
+      "id": "ru-pizdets",
+      "language": "ru",
+      "label": "Pizdets · same fucking nonsense again",
+      "text": "Пиздец, опять какая-то ёбаная хуйня!",
+      "audio": "ru-pizdets.mp3",
+      "intensity": "Nuclear",
+      "kind": "replacement"
+    }
+  ],
+  "sighs": {
+    "en": {
+      "text": "Wonderful. You solved a completely different problem.",
+      "audio": "sigh.mp3"
+    },
+    "hi": {
+      "text": "वाह। सवाल कुछ और था, जवाब कुछ और।",
+      "audio": "hi-sigh.mp3"
+    },
+    "hinglish": {
+      "text": "वाह। सवाल कुछ और था, जवाब कुछ और।",
+      "audio": "hi-sigh.mp3"
+    }
+  },
+  "separateActors": [
+    "en-rant.mp3",
+    "en-burst-01.mp3",
+    "en-burst-02.mp3",
+    "en-burst-03.mp3",
+    "en-burst-04.mp3",
+    "en-burst-05.mp3",
+    "en-burst-06.mp3",
+    "en-burst-07.mp3",
+    "en-burst-08.mp3",
+    "en-burst-09.mp3",
+    "en-burst-10.mp3",
+    "en-burst-11.mp3",
+    "en-burst-12.mp3",
+    "en-burst-13.mp3",
+    "en-burst-14.mp3",
+    "en-burst-15.mp3",
+    "en-burst-16.mp3",
+    "en-burst-17.mp3",
+    "en-burst-18.mp3",
+    "en-burst-19.mp3",
+    "en-burst-20.mp3",
+    "en-burst-21.mp3",
+    "en-burst-22.mp3",
+    "en-burst-23.mp3",
+    "en-burst-24.mp3",
+    "en-burst-25.mp3",
+    "en-burst-26.mp3",
+    "en-burst-27.mp3",
+    "en-burst-28.mp3",
+    "en-burst-29.mp3",
+    "en-burst-30.mp3",
+    "en-meltdown.mp3",
+    "curse.mp3",
+    "en-bullshit.mp3",
+    "en-read.mp3",
+    "hi-rant.mp3",
+    "hi-burst-01.mp3",
+    "hi-burst-02.mp3",
+    "hi-burst-03.mp3",
+    "hi-burst-04.mp3",
+    "hi-burst-05.mp3",
+    "hi-burst-06.mp3",
+    "hi-burst-07.mp3",
+    "hi-burst-08.mp3",
+    "hi-burst-09.mp3",
+    "hi-burst-10.mp3",
+    "hi-burst-11.mp3",
+    "hi-burst-12.mp3",
+    "hi-burst-13.mp3",
+    "hi-burst-14.mp3",
+    "hi-burst-15.mp3",
+    "hi-burst-16.mp3",
+    "hi-burst-17.mp3",
+    "hi-burst-18.mp3",
+    "hi-burst-19.mp3",
+    "hi-burst-20.mp3",
+    "hi-burst-21.mp3",
+    "hi-burst-22.mp3",
+    "hi-burst-23.mp3",
+    "hi-burst-24.mp3",
+    "hi-burst-25.mp3",
+    "hi-burst-26.mp3",
+    "hi-burst-27.mp3",
+    "hi-burst-28.mp3",
+    "hi-burst-29.mp3",
+    "hi-burst-30.mp3",
+    "hi-meltdown.mp3",
+    "hi-madarchod.mp3",
+    "hi-behenchod.mp3",
+    "hi-chutiya.mp3",
+    "hi-bakchodi.mp3",
+    "hinglish-rant.mp3",
+    "hinglish-burst-01.mp3",
+    "hinglish-burst-02.mp3",
+    "hinglish-burst-03.mp3",
+    "hinglish-burst-04.mp3",
+    "hinglish-burst-05.mp3",
+    "hinglish-burst-06.mp3",
+    "hinglish-burst-07.mp3",
+    "hinglish-burst-08.mp3",
+    "hinglish-burst-09.mp3",
+    "hinglish-burst-10.mp3",
+    "hinglish-burst-11.mp3",
+    "hinglish-burst-12.mp3",
+    "hinglish-burst-13.mp3",
+    "hinglish-burst-14.mp3",
+    "hinglish-burst-15.mp3",
+    "hinglish-burst-16.mp3",
+    "hinglish-burst-17.mp3",
+    "hinglish-burst-18.mp3",
+    "hinglish-burst-19.mp3",
+    "hinglish-burst-20.mp3",
+    "hinglish-burst-21.mp3",
+    "hinglish-burst-22.mp3",
+    "hinglish-burst-23.mp3",
+    "hinglish-burst-24.mp3",
+    "hinglish-burst-25.mp3",
+    "hinglish-burst-26.mp3",
+    "hinglish-burst-27.mp3",
+    "hinglish-burst-28.mp3",
+    "hinglish-burst-29.mp3",
+    "hinglish-burst-30.mp3",
+    "hinglish-meltdown.mp3",
+    "hinglish-bc.mp3",
+    "hinglish-mc.mp3",
+    "hinglish-wtf.mp3",
+    "pa-rant.mp3",
+    "pa-burst-01.mp3",
+    "pa-burst-02.mp3",
+    "pa-burst-03.mp3",
+    "pa-burst-04.mp3",
+    "pa-burst-05.mp3",
+    "pa-burst-06.mp3",
+    "pa-burst-07.mp3",
+    "pa-burst-08.mp3",
+    "pa-burst-09.mp3",
+    "pa-burst-10.mp3",
+    "pa-burst-11.mp3",
+    "pa-burst-12.mp3",
+    "pa-burst-13.mp3",
+    "pa-burst-14.mp3",
+    "pa-burst-15.mp3",
+    "pa-burst-16.mp3",
+    "pa-burst-17.mp3",
+    "pa-burst-18.mp3",
+    "pa-burst-19.mp3",
+    "pa-burst-20.mp3",
+    "pa-burst-21.mp3",
+    "pa-burst-22.mp3",
+    "pa-burst-23.mp3",
+    "pa-burst-24.mp3",
+    "pa-burst-25.mp3",
+    "pa-burst-26.mp3",
+    "pa-burst-27.mp3",
+    "pa-burst-28.mp3",
+    "pa-burst-29.mp3",
+    "pa-burst-30.mp3",
+    "pa-meltdown.mp3",
+    "pa-madarchod.mp3",
+    "pa-chutiya.mp3",
+    "pa-landu.mp3",
+    "pa-read.mp3",
+    "pa-bakchodi.mp3",
+    "pa-wrong.mp3",
+    "pa-stop.mp3",
+    "es-rant.mp3",
+    "es-burst-01.mp3",
+    "es-burst-02.mp3",
+    "es-burst-03.mp3",
+    "es-burst-04.mp3",
+    "es-burst-05.mp3",
+    "es-burst-06.mp3",
+    "es-burst-07.mp3",
+    "es-burst-08.mp3",
+    "es-burst-09.mp3",
+    "es-burst-10.mp3",
+    "es-burst-11.mp3",
+    "es-burst-12.mp3",
+    "es-burst-13.mp3",
+    "es-burst-14.mp3",
+    "es-burst-15.mp3",
+    "es-burst-16.mp3",
+    "es-burst-17.mp3",
+    "es-burst-18.mp3",
+    "es-burst-19.mp3",
+    "es-burst-20.mp3",
+    "es-burst-21.mp3",
+    "es-burst-22.mp3",
+    "es-burst-23.mp3",
+    "es-burst-24.mp3",
+    "es-burst-25.mp3",
+    "es-burst-26.mp3",
+    "es-burst-27.mp3",
+    "es-burst-28.mp3",
+    "es-burst-29.mp3",
+    "es-burst-30.mp3",
+    "es-meltdown.mp3",
+    "es-joder.mp3",
+    "es-mierda.mp3",
+    "fr-rant.mp3",
+    "fr-burst-01.mp3",
+    "fr-burst-02.mp3",
+    "fr-burst-03.mp3",
+    "fr-burst-04.mp3",
+    "fr-burst-05.mp3",
+    "fr-burst-06.mp3",
+    "fr-burst-07.mp3",
+    "fr-burst-08.mp3",
+    "fr-burst-09.mp3",
+    "fr-burst-10.mp3",
+    "fr-burst-11.mp3",
+    "fr-burst-12.mp3",
+    "fr-burst-13.mp3",
+    "fr-burst-14.mp3",
+    "fr-burst-15.mp3",
+    "fr-burst-16.mp3",
+    "fr-burst-17.mp3",
+    "fr-burst-18.mp3",
+    "fr-burst-19.mp3",
+    "fr-burst-20.mp3",
+    "fr-burst-21.mp3",
+    "fr-burst-22.mp3",
+    "fr-burst-23.mp3",
+    "fr-burst-24.mp3",
+    "fr-burst-25.mp3",
+    "fr-burst-26.mp3",
+    "fr-burst-27.mp3",
+    "fr-burst-28.mp3",
+    "fr-burst-29.mp3",
+    "fr-burst-30.mp3",
+    "fr-meltdown.mp3",
+    "fr-putain.mp3",
+    "fr-bordel.mp3",
+    "de-rant.mp3",
+    "de-burst-01.mp3",
+    "de-burst-02.mp3",
+    "de-burst-03.mp3",
+    "de-burst-04.mp3",
+    "de-burst-05.mp3",
+    "de-burst-06.mp3",
+    "de-burst-07.mp3",
+    "de-burst-08.mp3",
+    "de-burst-09.mp3",
+    "de-burst-10.mp3",
+    "de-burst-11.mp3",
+    "de-burst-12.mp3",
+    "de-burst-13.mp3",
+    "de-burst-14.mp3",
+    "de-burst-15.mp3",
+    "de-burst-16.mp3",
+    "de-burst-17.mp3",
+    "de-burst-18.mp3",
+    "de-burst-19.mp3",
+    "de-burst-20.mp3",
+    "de-burst-21.mp3",
+    "de-burst-22.mp3",
+    "de-burst-23.mp3",
+    "de-burst-24.mp3",
+    "de-burst-25.mp3",
+    "de-burst-26.mp3",
+    "de-burst-27.mp3",
+    "de-burst-28.mp3",
+    "de-burst-29.mp3",
+    "de-burst-30.mp3",
+    "de-meltdown.mp3",
+    "de-scheisse.mp3",
+    "de-fick.mp3",
+    "pt-rant.mp3",
+    "pt-burst-01.mp3",
+    "pt-burst-02.mp3",
+    "pt-burst-03.mp3",
+    "pt-burst-04.mp3",
+    "pt-burst-05.mp3",
+    "pt-burst-06.mp3",
+    "pt-burst-07.mp3",
+    "pt-burst-08.mp3",
+    "pt-burst-09.mp3",
+    "pt-burst-10.mp3",
+    "pt-burst-11.mp3",
+    "pt-burst-12.mp3",
+    "pt-burst-13.mp3",
+    "pt-burst-14.mp3",
+    "pt-burst-15.mp3",
+    "pt-burst-16.mp3",
+    "pt-burst-17.mp3",
+    "pt-burst-18.mp3",
+    "pt-burst-19.mp3",
+    "pt-burst-20.mp3",
+    "pt-burst-21.mp3",
+    "pt-burst-22.mp3",
+    "pt-burst-23.mp3",
+    "pt-burst-24.mp3",
+    "pt-burst-25.mp3",
+    "pt-burst-26.mp3",
+    "pt-burst-27.mp3",
+    "pt-burst-28.mp3",
+    "pt-burst-29.mp3",
+    "pt-burst-30.mp3",
+    "pt-meltdown.mp3",
+    "pt-porra.mp3",
+    "pt-merda.mp3",
+    "it-rant.mp3",
+    "it-burst-01.mp3",
+    "it-burst-02.mp3",
+    "it-burst-03.mp3",
+    "it-burst-04.mp3",
+    "it-burst-05.mp3",
+    "it-burst-06.mp3",
+    "it-burst-07.mp3",
+    "it-burst-08.mp3",
+    "it-burst-09.mp3",
+    "it-burst-10.mp3",
+    "it-burst-11.mp3",
+    "it-burst-12.mp3",
+    "it-burst-13.mp3",
+    "it-burst-14.mp3",
+    "it-burst-15.mp3",
+    "it-burst-16.mp3",
+    "it-burst-17.mp3",
+    "it-burst-18.mp3",
+    "it-burst-19.mp3",
+    "it-burst-20.mp3",
+    "it-burst-21.mp3",
+    "it-burst-22.mp3",
+    "it-burst-23.mp3",
+    "it-burst-24.mp3",
+    "it-burst-25.mp3",
+    "it-burst-26.mp3",
+    "it-burst-27.mp3",
+    "it-burst-28.mp3",
+    "it-burst-29.mp3",
+    "it-burst-30.mp3",
+    "it-meltdown.mp3",
+    "it-cazzo.mp3",
+    "it-merda.mp3",
+    "ja-rant.mp3",
+    "ja-burst-01.mp3",
+    "ja-burst-02.mp3",
+    "ja-burst-03.mp3",
+    "ja-burst-04.mp3",
+    "ja-burst-05.mp3",
+    "ja-burst-06.mp3",
+    "ja-burst-07.mp3",
+    "ja-burst-08.mp3",
+    "ja-burst-09.mp3",
+    "ja-burst-10.mp3",
+    "ja-burst-11.mp3",
+    "ja-burst-12.mp3",
+    "ja-burst-13.mp3",
+    "ja-burst-14.mp3",
+    "ja-burst-15.mp3",
+    "ja-burst-16.mp3",
+    "ja-burst-17.mp3",
+    "ja-burst-18.mp3",
+    "ja-burst-19.mp3",
+    "ja-burst-20.mp3",
+    "ja-burst-21.mp3",
+    "ja-burst-22.mp3",
+    "ja-burst-23.mp3",
+    "ja-burst-24.mp3",
+    "ja-burst-25.mp3",
+    "ja-burst-26.mp3",
+    "ja-burst-27.mp3",
+    "ja-burst-28.mp3",
+    "ja-burst-29.mp3",
+    "ja-burst-30.mp3",
+    "ja-meltdown.mp3",
+    "ja-kuso.mp3",
+    "ja-chikushou.mp3",
+    "ko-rant.mp3",
+    "ko-burst-01.mp3",
+    "ko-burst-02.mp3",
+    "ko-burst-03.mp3",
+    "ko-burst-04.mp3",
+    "ko-burst-05.mp3",
+    "ko-burst-06.mp3",
+    "ko-burst-07.mp3",
+    "ko-burst-08.mp3",
+    "ko-burst-09.mp3",
+    "ko-burst-10.mp3",
+    "ko-burst-11.mp3",
+    "ko-burst-12.mp3",
+    "ko-burst-13.mp3",
+    "ko-burst-14.mp3",
+    "ko-burst-15.mp3",
+    "ko-burst-17.mp3",
+    "ko-burst-18.mp3",
+    "ko-burst-20.mp3",
+    "ko-burst-21.mp3",
+    "ko-burst-22.mp3",
+    "ko-burst-23.mp3",
+    "ko-burst-24.mp3",
+    "ko-burst-25.mp3",
+    "ko-burst-26.mp3",
+    "ko-burst-27.mp3",
+    "ko-burst-28.mp3",
+    "ko-burst-29.mp3",
+    "ko-burst-30.mp3",
+    "ko-meltdown.mp3",
+    "ko-ssibal.mp3",
+    "ko-jot.mp3",
+    "ru-rant.mp3",
+    "ru-burst-01.mp3",
+    "ru-burst-02.mp3",
+    "ru-burst-03.mp3",
+    "ru-burst-04.mp3",
+    "ru-burst-05.mp3",
+    "ru-burst-06.mp3",
+    "ru-burst-07.mp3",
+    "ru-burst-08.mp3",
+    "ru-burst-09.mp3",
+    "ru-burst-10.mp3",
+    "ru-burst-11.mp3",
+    "ru-burst-12.mp3",
+    "ru-burst-13.mp3",
+    "ru-burst-14.mp3",
+    "ru-burst-15.mp3",
+    "ru-burst-16.mp3",
+    "ru-burst-17.mp3",
+    "ru-burst-18.mp3",
+    "ru-burst-19.mp3",
+    "ru-burst-20.mp3",
+    "ru-burst-21.mp3",
+    "ru-burst-22.mp3",
+    "ru-burst-23.mp3",
+    "ru-burst-24.mp3",
+    "ru-burst-25.mp3",
+    "ru-burst-26.mp3",
+    "ru-burst-27.mp3",
+    "ru-burst-28.mp3",
+    "ru-burst-29.mp3",
+    "ru-burst-30.mp3",
+    "ru-meltdown.mp3",
+    "ru-blyat.mp3",
+    "ru-pizdets.mp3"
+  ],
+  "audioVersion": "native-banks-2",
+  "voiceBank": {
+    "male": "Iapetus",
+    "female": "Erinome",
+    "benchmark": "User approved natural Punjabi Man/Woman candidates",
+    "languageSummary": [
+      {
+        "language": "en",
+        "shortLines": 30,
+        "genericLines": 35,
+        "actorClips": 70,
+        "targetRegion": "United States",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "hi",
+        "shortLines": 30,
+        "genericLines": 36,
+        "actorClips": 72,
+        "targetRegion": "India",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "hinglish",
+        "shortLines": 30,
+        "genericLines": 35,
+        "actorClips": 70,
+        "targetRegion": "India",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "pa",
+        "shortLines": 30,
+        "genericLines": 40,
+        "actorClips": 80,
+        "targetRegion": "Amritsar, Punjab, India",
+        "benchmarkApprovedByUser": true,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "es",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "Mexico",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "fr",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "France",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "de",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "Germany",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "pt",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "São Paulo, Brazil",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "it",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "Italy",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "ja",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "Japan",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "ko",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "Seoul, South Korea",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      },
+      {
+        "language": "ru",
+        "shortLines": 30,
+        "genericLines": 34,
+        "actorClips": 68,
+        "targetRegion": "Russia",
+        "benchmarkApprovedByUser": false,
+        "nativeListenerCertified": false
+      }
+    ]
+  }
+}

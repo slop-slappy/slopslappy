@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="color-scheme" content="dark" />
+    <title>SlopSlappy — My Voice Studio</title>
+    <link rel="icon" type="image/png" href="icons/icon-32.png" />
+    <link rel="stylesheet" href="studio.css" />
+  </head>
+  <body>
+    <main class="studio-shell">
+      <header class="masthead">
+        <div class="studio-brand"><img src="icons/icon-128.png" width="64" height="64" alt=""><span>SlopSlappy</span></div>
+        <h1>MY VOICE</h1>
+        <p class="lede">
+          Hold-to-scream is never recorded. My Voice records only on explicit
+          <strong>Start</strong> and <strong>Save</strong>.
+        </p>
+      </header>
+
+      <section class="privacy-strip" aria-label="Privacy summary">
+        <b>LOCAL BROWSER STORAGE</b>
+        <span>NO CLOUD · NO TRANSCRIPT · NEVER AUTO-CAPTURED</span>
+      </section>
+
+      <div class="studio-grid">
+        <section class="card recorder-card" aria-labelledby="record-title">
+          <div class="card-heading">
+            <div>
+              <p class="section-kicker">RECORD MY OWN</p>
+              <h2 id="record-title">TAKE THE MIC</h2>
+            </div>
+            <output id="timer" class="timer" aria-live="polite">00:00</output>
+          </div>
+
+          <div id="recording-light" class="recording-light" aria-live="polite">
+            <span aria-hidden="true"></span><b>STANDING BY</b>
+          </div>
+          <p id="recording-note" class="note">
+            Nothing is captured until you choose Start. A recording can last up to 30 seconds.
+          </p>
+
+          <div class="action-row primary-actions">
+            <button id="start-recording" class="button button-hot" type="button">START RECORDING</button>
+            <button id="stop-recording" class="button" type="button" disabled>STOP</button>
+            <button id="discard-draft" class="button button-quiet" type="button" disabled>DISCARD DRAFT</button>
+          </div>
+
+          <div id="draft-area" class="draft-area" hidden>
+            <p class="draft-label">UNSAVED DRAFT / PREVIEW ONLY</p>
+            <audio id="draft-audio" controls preload="metadata"></audio>
+            <label class="field-label" for="recording-name">
+              NAME THIS TAKE
+              <input id="recording-name" maxlength="80" placeholder="e.g. Read the prompt" autocomplete="off" />
+            </label>
+            <div class="action-row">
+              <label class="favorite-choice"><input id="draft-favorite" type="checkbox" checked /> FAVORITE</label>
+              <button id="save-draft" class="button button-save" type="button">SAVE LOCALLY</button>
+            </div>
+            <p class="microcopy">Closing or discarding this draft does not save it.</p>
+          </div>
+        </section>
+
+        <section class="card library-card" aria-labelledby="library-title">
+          <div class="card-heading">
+            <div>
+              <p class="section-kicker">YOUR LOCAL LIBRARY</p>
+              <h2 id="library-title">FAVORITES &amp; TAKES</h2>
+            </div>
+            <button id="refresh-library" class="button button-quiet compact" type="button">REFRESH</button>
+          </div>
+          <p class="note">Saved recordings stay in this browser’s SlopSlappy extension storage. They are not uploaded or shared with the demo origin automatically.</p>
+          <p id="library-status" class="library-status" role="status" aria-live="polite">LOADING LOCAL LIBRARY…</p>
+          <div id="recordings-list" class="recordings-list" aria-live="polite"></div>
+        </section>
+      </div>
+
+      <footer>
+        <p><strong>WHAT LEAVES THIS PAGE:</strong> nothing. No cloud, analytics, transcription, or automatic recording.</p>
+        <p>Saved favorites are available to SlopSlappy on supported AI sites through extension-local storage only.</p>
+      </footer>
+    </main>
+    <script src="studio.js"></script>
+  </body>
+</html>

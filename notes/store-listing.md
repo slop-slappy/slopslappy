@@ -1,7 +1,7 @@
 # Chrome Web Store listing — paste-ready
 
 Developer console: https://chrome.google.com/webstore/devconsole
-Sign in with slappyjoke@gmail.com. One-time $5 registration.
+Sign in with the project Google account. One-time $5 registration.
 Upload the store zip (manifest.json at the root of the zip, no README/notes/docs).
 
 ---

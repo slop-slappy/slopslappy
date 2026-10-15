@@ -82,4 +82,4 @@ All voices are AI-performed. Personas are original fictional characters and paro
 
 ## Contact
 
-hello@slopslappy.com
+hello@slopslappy.com · [X](https://x.com/slopslappyapp) · [TikTok](https://www.tiktok.com/@slopslappy) · [Instagram](https://www.instagram.com/slopslappy/)

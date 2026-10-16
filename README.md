@@ -80,6 +80,8 @@ Want a language or persona that isn't here? Open an issue with the phrases you'd
 
 All voices are AI-performed. Personas are original fictional characters and parodies, not celebrity voices, authentic recordings or historical quotations.
 
+No AI feelings are hurt.
+
 ## Contact
 
 hello@slopslappy.com · [X](https://x.com/slopslappyapp) · [TikTok](https://www.tiktok.com/@slopslappy) · [Instagram](https://www.instagram.com/slopslappy/)

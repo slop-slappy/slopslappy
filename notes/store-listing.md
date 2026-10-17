@@ -1,5 +1,7 @@
 # Chrome Web Store listing — paste-ready
 
+Published 17 Oct 2026: https://chromewebstore.google.com/detail/hldbbjgbhfoddampamjfokhfnnkefefh
+
 Developer console: https://chrome.google.com/webstore/devconsole
 Sign in with the project Google account. One-time $5 registration.
 Upload the store zip (manifest.json at the root of the zip, no README/notes/docs).

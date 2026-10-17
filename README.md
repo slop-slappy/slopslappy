@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
+  <a href="https://chromewebstore.google.com/detail/hldbbjgbhfoddampamjfokhfnnkefefh"><b>Add to Chrome</b></a> ·
   <a href="https://slopslappy.com">slopslappy.com</a> ·
-  <a href="../../releases/latest">Download</a> ·
-  <a href="#install">Install</a> ·
+  <a href="#install">Install from source</a> ·
   <a href="#privacy">Privacy</a>
 </p>
 
@@ -35,16 +35,14 @@ Everything is bundled. No account, no server, no internet after install.
 
 ## Install
 
-**From the Chrome Web Store** — coming soon. Until then:
+**From the Chrome Web Store** — [Add to Chrome](https://chromewebstore.google.com/detail/hldbbjgbhfoddampamjfokhfnnkefefh). Free. Works in Chrome, Edge, Brave, Arc and anything else Chromium-based.
 
-**From source (30 seconds)**
+**From source (30 seconds)** — if you'd rather load it yourself:
 
 1. Download the [latest release](../../releases/latest) zip and unzip it, or clone this repo.
 2. Open `chrome://extensions`, turn on **Developer mode** (top right).
 3. Click **Load unpacked** and pick the folder that contains `manifest.json`.
 4. Open ChatGPT (or Claude, Gemini, Manus), ask it something, and click the slipper next to the answer.
-
-Works in Chrome, Edge, Brave, Arc and anything else Chromium-based.
 
 ## Using it
 
